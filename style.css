@@ -1,0 +1,46 @@
+
+.StileChar {font-family: Verdana, Arial, Helvetica, sans-serif}
+.StileColorWhite {color: #FFFFFF}
+.StileColorBlack {color: #000000}
+.StileColorRed {color: #FF0000}
+.StileColorGreen {color: #66CC66}
+.StileColorBlue {color: #0000FF}
+.StileColorGray {color: #666666}
+.StileCharBold {font-weight: bold;}
+.StileCharSizeBig {font-size: 14px}
+.StileCharSizeBigBig {font-size: 18px}
+.StileCharSizeSuper {font-size: 22px}
+.StileCharSizeSuperSuper {font-size: 22px}
+.StileCharSizeNormal {font-size: 12px}
+.StileCharSizeMini {font-size: 10px}
+
+.StileTitolo {
+	font-size: 36px;
+	font-weight: bold;
+}
+
+.StileBackgroundME{ background-color: #FF0000;}
+.StileBackgroundPHD{ background-color: #FF9900;}
+.StileBackgroundNEWS{ background-color: #FFBB00;}
+.StileBackgroundTEACH{ background-color: #FFDD00;}
+.StileBackground2005{ background-color: #EECC66;}
+.StileBackground2004{ background-color: #EECC99;}
+.StileBackgroundRI{ background-color: #BBFFBB;}
+.StileBackgroundHOBBIES{ background-color: #99FF99;}
+
+
+a:visited {
+	text-decoration: underline;
+	color: #000000;
+}
+a:hover {
+	text-decoration: underline;
+	color: #00AAFF;
+}
+a:active {
+	text-decoration: underline;
+	color: #000000;
+	text-decoration: none;
+}
+
+

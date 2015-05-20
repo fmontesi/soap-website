@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords"
+content="Fabrizio Montesi
+	Ivan Lanese
+	Manuel Mazzara
+	Ilsun You
+	Alberto Lluch Lafuente
+	Mario Bravetti
+	Service-Oriented Computing
+	Service-Oriented Computing
+	Service-Oriented Architectures
+	Service-Oriented Architectures
+	Communication-Centred Programming
+	Process Calculi
+	Process Calculus
+	Process-Calculi
+	Process-Calculus
+	Pi-Calculus
+	Pi-Calculi
+	Pi Calculus
+	Pi Calculi
+	Picalculus
+	Picalculi
+	Transitions
+	Reductions
+	WS-BPEL
+	UDDI
+	SOAP
+	ACM
+	SAC
+	Conference
+	Distributed Systems
+	Computer Science
+	Formal Models
+	Informatics" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<link rel="stylesheet" href="css/960_24_col.css" />
+<link rel="stylesheet" href="css/reset.css" />
+<link rel="stylesheet" href="css/text.css" />
+<link rel="stylesheet" href="css/soap_style.css" />
+<script type="text/javascript" src="lib/jquery/jquery-1.11.1.min.js"></script>
+<script language="javascript">
+	var name = "#menu";
+	var menuYloc = 0;
+	$(document).ready(function() {
+		$(window).scroll(function () { 
+			offset = menuYloc + $(document).scrollTop() + "px";
+ 			$(name).animate({top:offset},{duration:500,queue:false});
+		});
+	});
+</script>
+
+<title>ACM SAC 2015 - SOAP track</title> 
+
+<!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+</head>
+<body>
+<div class="container_24">
+<div class="grid_24" id="header">
+<div class="grid_10">
+	<img src="images/acm.gif"/>
+	<img src="images/soap_logo.png"/>
+</div>
+<div class="grid_12">
+	<div class="grid_12" style="font-weight:bold; font-size:14pt">
+	Service-Oriented Architectures and Programming
+	</div>
+	<div class="grid_12" style="font-weight:bold; border-top: 1px solid black; border-bottom: 1px solid black;">
+	30th Annual ACM Symposium On Applied Computing (SAC)<br/>
+Track on Service-Oriented Architectures and Programming<br/>
+Salamanca, Spain<br/>
+April 13-17, 2015
+	</div>
+</div>
+	
+</div>
+
+<div class="grid_6" id="menu" style="position:relative">
+	<ul id="nav">
+	<!-- <li><a href="#news">News</a></li> -->
+	<li><a href="#sac">ACM SAC 2015</a></li>
+	<li><a href="#cfp">Call For Papers</a></li>
+	<li><a href="#papers">Accepted Papers</a></li>
+	<li><a href="#dates">Important Dates</a></li>
+	<li><a href="#submissions">Submissions</a></li>
+	<li><a href="#specialissue">Special Issue</a></li>
+	<li><a href="#studcompetition">Student Competition</a></li>
+	<li><a href="#pc">PC Members</a></li>
+	<li><a href="#chairs">Track Chairs</a></li>
+	<li><a href="#steeringCommittee">Steering Committee</a></li>  	
+	</ul>
+</div>
+
+<div class="grid_18" style="text-align:right">
+	<strong>Follow us and get updates:</strong>
+	<a href="http://www.linkedin.com/groups?gid=4450094" target="_new">
+	<img src="images/join_linkedin.png" border="0" alt="SOAP group on LinkedIn" />
+	</a>
+</div>
+
+<div class="grid_18" id="body">
+
+<!-- <div id="news">
+<h2 class="SectionTitle">News: extended deadline!</h2>
+<div class="SectionContent">
+The deadline for paper submissions has been extended to
+<center><strong>September 28, 2012</strong></center>
+</div>
+</div> -->
+
+<div id="sac">
+<h2 class="SectionTitle">SAC 2015</h2>
+<div class="SectionContent">
+For the past thirty years, the ACM
+Symposium on Applied Computing has been a
+primary gathering forum for applied computer
+scientists, computer engineers, software engineers,
+and application developers from around the world.
+<a href="http://www.acm.org/conferences/sac/sac2015/" target="_new">SAC 2015</a> is sponsored by the ACM Special
+Interest Group on Applied Computing (SIGAPP),
+and will be held in Salamanca, Spain.
+</div>
+</div>
+
+<div id="cfp">
+<h2 class="SectionTitle">Call for papers <a href="acmsac2015-soap-cfp.txt">(download)</a></h2>
+<div class="SectionContent">
+
+Service-Oriented Programming (SOP) is quickly changing our vision of 
+software development, bringing a paradigmatic shift in the methodologies followed 
+by programmers when designing and implementing distributed systems.
+SOP originally triggered a radical transformation of the Web, from being a means of presenting information to a wide spectrum of people to becoming a computational fabric. In such fabric, loosely-coupled services publish their interfaces and, through them, discover and interact with each other abstracting from their internal implementations.
+While this transformation still continues today, it has also already generated other shifts in how programmers deal with resource handling (Cloud Computing) and the scalability of software architectures from the very small to the very large (Microservices).
+Research on SOP is giving strong impetus to the 
+development of new technologies and tools for creating and deploying 
+distributed software. In the context of this modern paradigm we have 
+to cope with an old challenge, like in the early days of 
+Object-Oriented Programming (OOP) when, until key features like 
+encapsulation, inheritance, and polymorphism, and proper design 
+methodologies were defined, consistency in the programming model 
+definition was not achieved. The complex scenario of SOP needs to be 
+clarified on many aspects, both from the engineering and from the 
+foundational points of view.<br/><br/>
+
+From the engineering point of view, there are open issues at many 
+levels. Among others, at the system design level, both traditional 
+approaches based on UML and approaches taking inspiration from 
+business process modelling, e.g. BPMN, are used. At the composition 
+level, orchestration and choreography are continuously improved both formally and practically, with an evident need for their integration in the development process. At the description and discovery level there are two separate communities pushing respectively the semantic approach (ontologies, OWL, ...) and the syntactic one like WSDL. In 
+particular, the role of discovery engines and protocols is not clear. 
+In this respect we still lack adopted standards: UDDI looked to be a 
+good candidate, but it is no longer pushed by the main corporations, 
+and its wide adoption seems difficult. Furthermore, a new 
+implementation platform, the so-called REST services, is emerging and 
+competing with classic Web Services. Finally, features like Quality 
+of Service, security and dependability need to be taken seriously 
+into account, and this investigation should lead to standard 
+proposals.<br/><br/>
+
+From the foundational point of view, formalists have discussed widely
+in the last years, and many attempts to use formal methods for 
+specification and verification in this setting have been made. 
+Session correlation, service types, contract theories and 
+communication patterns are only a few examples of the aspects that 
+have been investigated. Moreover, several formal models based upon 
+automata, Petri nets and algebraic approaches have been developed. 
+However most of these approaches concentrate only on a few features 
+of Service-Oriented Systems in isolation, and a comprehensive approach 
+is still far from being achieved.
+
+Our track aims at bringing together researchers and practitioners 
+having the common objective of transforming SOP into a mature 
+discipline with both solid scientific foundations and mature 
+software engineering development methodologies supported by dedicated
+tools. In particular, we will encourage works and discussions about 
+what SOP still needs in order to achieve its original goal.<br/><br/>
+
+
+Major topics of interest will include:
+<ul>
+</li><li> Formal methods for Service-Oriented Computing
+</li><li> Notations, models, and standards for Service-Oriented Computing
+</li><li> Tools and Middlewares for Service-Oriented Development
+</li><li> Service-Oriented Programming Languages
+</li><li> Service Choreographies and Protocol-Driven Service Development
+</li><li> Service Interfaces and Communication Technologies (e.g., REST)
+</li><li> Microservices and Scalable Service-Oriented Computing
+</li><li> Engineering methodologies and Patterns for Service-Oriented Software
+</li><li> Static Analysis and Testing of Service-Oriented applications
+</li><li> Adaptability, Dependability, and Fault handling in Service Systems
+</li><li> Security in Service-Oriented Architectures
+</li><li> Quality of Service and Performance Analysis
+</li><li> Industrial deployment of tools and methodologies, case studies
+</li><li> Service application case studies
+</li><li> Trust and Services
+</li><li> Sustainability and Services, Green Computing
+</li><li> Cloud Computing and Services
+</li><li> Services and Big Data
+</li></ul>
+
+	</div>
+	
+		<div id="papers">
+<h2 class="SectionTitle">Accepted Papers</h2>
+<div class="SectionContent">
+<ul>
+</li><li>A hybrid framework for WS-BPEL scenario execution adaptation, using monitoring and feedback data. 
+Dionisis Margaris, Costas Vassilakis and Panagiotis Georgiadis	 
+</li><li>A Software Process Line for Service-Oriented Applications. 
+Cleiton Garcia, Marco Paludo, Andreia Malucelli and Sheila Reinehr	 
+</li><li>Model-Checking Verification of Publish-Subscribe Architectures in Web Service Contexts.  
+Gregorio Díaz, Maria Emilia Cambronero, Hermenegilda Macìa and Valentín Valero 
+</li><li>A Data Quality-aware Cloud Service based on Metaheuristic and Machine Learning Provisioning Algorithms.  
+Dimas C. Nascimento, Carlos Eduardo Pires and Demetrio Gomes Mestre	 
+</li><li>Formal modeling self-adaptive service-oriented applications.  
+Elvinia Riccobene and Patrizia Scandurra 	 
+</li><li>Characterizing the Performance of Web Service Frameworks under Security Attacks. 
+Rui Oliveira, Nuno Laranjeiro and Marco Vieira
+</li>
+</div>
+</div>
+	
+	
+	
+	<div id="dates">
+<h2 class="SectionTitle">Important Dates</h2>
+<div class="SectionContent">
+<ul>
+	
+	<li> <strike>September 12 26 </strike> <font color="red">October 10</font>, 2014: Submission of regular papers and SRC research abstracts
+	</li><li> November 30, 2014: Notification of paper and SRC acceptance/rejection
+	</li><li> December 15, 2014: Camera-ready copies of accepted papers/SRC
+	</li><li> December 15, 2014: Author registration due date
+
+</li>
+</div>
+</div>
+
+<div id="submissions">
+<h2 class="SectionTitle">Submissions</h2>
+<div class="SectionContent">
+<p>
+Authors are invited to submit original unpublished papers. Submission
+of the same paper to multiple tracks is not allowed. Peer groups with
+expertise in the track focus area will double-blindly review
+submissions. Accepted papers will be published in the annual
+conference proceedings. SOAP track chairs will not submit to the
+track. Submissions from SOAP PC members and from PC members and track
+chairs of other SAC tracks are welcome. Submission guidelines
+can be found on the
+<a href="http://www.acm.org/conferences/sac/sac2015/" target="_new">SAC 2015 website</a>.
+Prospective papers should be submitted to the track using the provided
+automated submission system. Please pay attention to ensure anonimity
+of your submitted manuscript as detailed in the submission page so to
+allow for double-blind review. Papers not satisfying this constraint
+will be automatically rejected. The maximum length for papers is 8
+pages. Accepted papers whose camera-ready version will exceed 6 pages
+will have to pay an extra charge.  For each accepted paper, an author
+or a proxy attending SAC MUST present the paper. This is a requirement
+for the paper to be included in the ACM/IEEE digital library.
+</p>
+<p>
+Paper registration is required, allowing the inclusion of the paper/poster in the conference proceedings.
+An author or a proxy attending SAC MUST present the paper. This is a requirement for the paper/poster to be included in the ACM/IEEE digital library.
+No-show of scheduled papers and posters will result in excluding them from the ACM/IEEE digital library.</p>
+The submission web-link (START system) for regular papers is <a href="http://www.acm.org/conferences/sac/sac2015/Paper-SubmissionUploadPage.htm">http://www.acm.org/conferences/sac/sac2015/Paper-SubmissionUploadPage.htm</a>.
+</div>
+</div>
+
+<div id="specialissue">
+<h2 class="SectionTitle">Special Issue</h2>
+<div class="SectionContent">
+
+We plan to organize one or two special issues depending on the quality of
+the submissions. Best papers will be invited to a special issue of Elsevier’s
+Science of Computer Programming<br/><br/>
+
+<a href="http://www.journals.elsevier.com/science-of-computer-programming/">http://www.journals.elsevier.com/science-of-computer-programming/</a><br/><br/>
+
+Best papers by young researchers will be invited to a special issue of the 
+Journal of Internet Services and Information Security<br/><br/>
+
+<a href="http://www.jisis.org/">http://www.jisis.org/</a>
+</div>
+</div> 
+
+<div id="studcompetition">
+<h2 class="SectionTitle">Student Research Competition Program</h2>
+<div class="SectionContent">
+Graduate students are invited to submit research abstracts (minimum of
+2-page and maximum of 4-page) following the instructions published at
+SAC 2014 website. Submission of the same abstract to multiple tracks
+is not allowed. All research abstract submissions will be reviewed by
+researchers and practitioners with expertise in the track focus area
+to which they are submitted. Authors of selected abstracts will have
+the opportunity to give poster presentations of their work and compete
+for three top-winning places. The Student Research Competition
+committee will evaluate and select First-, Second-, and Third- place
+winners. The winners will receive cash awards and SIGAPP recognition
+certificates during the conference banquet. Authors of selected
+abstracts are eligible to apply to the SIGAPP Student Travel Award
+program for support.<br/><br/>
+The web-link for the SRC (Student Research Competition) is <a href="http://www.acm.org/conferences/sac/sac2015/src15.htm"> http://www.acm.org/conferences/sac/sac2015</a>.<br/>
+</div>
+</div>
+
+<div id="pc">
+<h2 class="SectionTitle">Program Committee</h2>
+<div class="SectionContent">
+<ul>
+	<li>Laura Bocchi (Imperial College London, UK)</li>
+	<li>Mauro Caporuscio (Linnaeus University, Sweden)</li>
+	<li>Rub&eacute;n Casado Tejedor (Treelogic, Spain)</li>
+	<li>Ana Cavalli (Institut Mines-Telecom/Telecom SudParis, France)</li>
+	<li>Michele Ciavotta (Politecnico di Milano, Italy)</li>
+	<li>Javier Cubo (University of M&aacute;laga, Spain)</li>
+	<li>S&oslash;ren Debois (ITU Copenhagen, Denmark) </li>
+	<li>Nicola Dragoni (Technical University of Denmark, Denmark)</li>
+	<li>Rosa Filgueira Vicente (University of Edinburgh, UK)</li>
+	<li>Silvio Ghilardi (Universit&agrave; degli studi di Milano, Italy)</li>
+	<li>Claudio Guidi (italianaSoftware, Italy)</li>
+	<li>Manuel Mazzara (Innopolis University, Russia and ETH Zurich, Switzerland)</li>
+	<li>Hern&aacute;n Melgratti (University of Buenos Aires, Argentina)</li>
+	<li>Fabrizio Montesi (University of Southern Denmark, Denmark)</li>
+	<li>Manuel N&uacute;&ntilde;ez (University Complutense of Madrid, Spain)</li>
+	<li>Durica Nikoli&cacute; (ETH Zurich, Switzerland)</li>
+	<li>Nuno Oliveira (Universidade do Minho, Portugal)</li>
+	<li>K&eacute;vin Ottens (Klar&auml;lvdalens Datakonsult AB, Sweden)</li>
+	<li>C&eacute;sar S&aacute;nchez (IMDEA Software Institute, Spain)</li>
+	<li>Daniel Sykes (Imperial College London, UK)</li>
+	<li>Valent&iacute;n Valero Ruiz (University Castilla-La Mancha, Spain)</li>
+	<li>Peter Wong (Fredhopper - Amsterdam, Netherlands)</li>
+	<li>Franz Wotawa (Graz University of Technology, Austria)</li>
+	<li>Ilsun You (Korean Bible University, Korea)</li>
+	<li>Fatiha Za&iuml;di (Universit&eacute; Paris-Sud XI, France)</li>
+</ul>
+</div>
+</div>
+
+<div id="chairs">
+<h2 class="SectionTitle">Track Chairs</h2>
+<div class="SectionContent">
+<ul>
+
+	<li>	<a href="https://sites.google.com/site/marcellombersani/">Marcello Maria Bersani</a><br/>marcellomaria.bersani  @  polimi.it<br/> Polytechnic of Milan, Italy </li>
+	<li><a href="http://www.albertolluch.com/research">Alberto Lluch Lafuente</a><br/>albl  @  dtu.dk<br/> Technical University of Denmark, Denmark</li>
+	<li>	<a href="http://antares.sip.ucm.es/cana/">Alberto N&uacute;&ntilde;ez</a><br/>alberto.nunez  @  pdi.ucm.es<br/> Universidad Complutense de Madrid, Spain </li>
+	</ul>
+</div>
+
+<div id="steeringCommittee">
+<h2 class="SectionTitle">Steering Committee</h2>
+<div class="SectionContent">
+<ul>
+
+	<li>Claudio Guidi, italianaSoftware, Italy</li>
+	<li>Ivan Lanese, University of Bologna, Italy and INRIA, France</li>
+	<li>Manuel Mazzara, Innopolis University, Russia and ETH Zurich, Switzerland</li>
+	<li>Fabrizio Montesi, University of Southern Denmark, Denmark</li>
+</ul>
+</div>
+	</div>
+</div>
+</body>
+</html>
