@@ -3,50 +3,50 @@
         Call for Papers
 
 Service-Oriented Architectures and Programming track
-  of the 30th Symposium On Applied Computing 
+  of the 31st Symposium On Applied Computing 
 
-http://sac-soap.sdu.dk/
+http://sac-soap.sdu.dk/soap2016
 
 
         IMPORTANT DATES
 
-October 10, 2014: Submission of regular papers and SRC research abstracts
-November 30, 2014: Notification of paper and SRC acceptance/rejection
-December 15, 2014: Camera-ready copies of accepted papers/SRC
-December 15, 2014: Author registration due date
+September 11, 2015: Submission of regular papers and SRC research abstracts
+November 13, 2015: Notification of paper and SRC acceptance/rejection
+December 11, 2015: Camera-ready copies of accepted papers/SRC
+December 18, 2015: Author registration due date
 
 
-        ACM SAC 2015
+        ACM SAC 2016
 
 For the past thirty years, the ACM Symposium on Applied
 Computing has been a primary gathering forum for applied computer
 scientists, computer engineers, software engineers, and application
-developers from around the world. SAC 2015 is sponsored by the ACM
-Special Interest Group on Applied Computing (SIGAPP), and is held at 
-Salamanca (Spain).
+developers from around the world. SAC 2016 is sponsored by the ACM
+Special Interest Group on Applied Computing (SIGAPP), and will be 
+held in Pisa (Italy).
 
 
         SOAP TRACK: CALL FOR PAPERS
 
 Service-Oriented Programming (SOP) is quickly changing our vision of 
 software development, bringing a paradigmatic shift in the methodologies 
-followed  by programmers when designing and implementing distributed 
+followed by programmers when designing and implementing distributed 
 systems. SOP originally triggered a radical transformation of the Web, 
-from  being a means  of presenting information to a wide spectrum of people
+from being a means of presenting information to a wide spectrum of people
 to becoming a computational fabric. In such fabric, loosely-coupled services 
-publish their interfaces and,  through them, discover and interact with each 
-other abstracting from their internal  implementations. While this 
+publish their interfaces and, through them, discover and interact with each 
+other abstracting from their internal implementations. While this 
 transformation still continues today, it has also already generated other 
-shifts in how programmers deal with  resource handling (Cloud Computing) and 
-the scalability of software  architectures from the very small to the very 
-large (Microservices).  Research on SOP is giving strong impetus to the 
-development of new  technologies and tools for creating and deploying 
+shifts in how programmers deal with resource handling (Cloud Computing) and 
+the scalability of software architectures from the very small to the very 
+large (Microservices). Research on SOP is giving strong impetus to the 
+development of new technologies and tools for creating and deploying 
 distributed software. In the context of this modern paradigm we have to 
-cope with an old challenge, like in the early days of  Object-Oriented 
-Programming (OOP) when, until key features like  encapsulation, inheritance, 
-and polymorphism, and proper design  methodologies were defined, consistency 
+cope with an old challenge, like in the early days of Object-Oriented 
+Programming (OOP) when, until key features like encapsulation, inheritance, 
+and polymorphism, and proper design methodologies were defined, consistency 
 in the programming model definition was not achieved. The complex scenario of 
-SOP needs to be  clarified on many aspects, both from the engineering and 
+SOP needs to be clarified on many aspects, both from the engineering and 
 from the foundational points of view.
 
 From the engineering point of view, there are open issues at many 
@@ -57,9 +57,9 @@ level, orchestration and choreography are continuously improved both
 formally and practically, with an evident need for their integration in 
 the development process. At the description and discovery level there are 
 two separate communities pushing respectively the semantic approach (ontologies, 
-OWL, ...) and the syntactic one like WSDL. In  particular, the role of discovery 
-engines and protocols is not clear.  In this respect we still lack adopted 
-standards: UDDI looked to be a  good candidate, but it is no longer pushed by 
+OWL, ...) and the syntactic one like WSDL. In particular, the role of discovery 
+engines and protocols is not clear. In this respect we still lack adopted 
+standards: UDDI looked to be a good candidate, but it is no longer pushed by 
 the main corporations, and its wide adoption seems difficult. Furthermore, a new 
 implementation platform, the so-called REST services, is emerging and 
 competing with classic Web Services. Finally, features like Quality 
@@ -119,13 +119,13 @@ submissions. Accepted papers will be published in the annual
 conference proceedings. SOAP track chairs will not submit to the
 track. Submissions from SOAP PC members and from PC members and track
 chairs of other SAC tracks are welcome. Submission guidelines
-can be found on SAC 2015 Website:
+can be found on SAC 2016 Website:
     
-	http://www.acm.org/conferences/sac/sac2015/
+	http://www.acm.org/conferences/sac/sac2016/
 
 The submission web-link (START system) for regular papers is 
 
-http://www.acm.org/conferences/sac/sac2015/Paper-SubmissionUploadPage.htm
+http://www.acm.org/conferences/sac/sac2016/Paper-SubmissionUploadPage.htm
 
 Prospective papers should be submitted to the track using the provided
 automated submission system. Please pay attention to ensure anonymity
@@ -145,26 +145,17 @@ will result in excluding them from the ACM/IEEE digital library.
         SPECIAL ISSUE
 
 We plan to organize one or two special issues depending on the quality of
-the submissions. Best papers will be invited to a special issue of Elsevier’s
-Science of Computer Programming 
-
-http://www.journals.elsevier.com/science-of-computer-programming/
-
-Best papers by young researchers will be invited to a special issue of the 
-Journal of Internet Services and Information Security
-
-http://www.jisis.org/
-
+the submissions. 
 
         STUDENT RESEARCH COMPETITION PROGRAM 
 
-Graduate students are invited to submit research abstracts (minimum of
-2-page and maximum of 4-page) following the instructions published at
-SAC 2014 website. Submission of the same abstract to multiple tracks
-is not allowed. All research abstract submissions will be reviewed by
-researchers and practitioners with expertise in the track focus area
-to which they are submitted. Authors of selected abstracts will have
-the opportunity to give poster presentations of their work and compete
+Graduate students are invited to submit research abstracts (maximum of
+2-page) following the instructions published at SAC 2016 website. 
+Submission of the same abstract to multiple tracks is not allowed. 
+All research abstract submissions will be reviewed by researchers 
+and practitioners with expertise in the track focus area to which 
+they are submitted. Authors of selected abstracts will have the 
+opportunity to give poster presentations of their work and compete
 for three top-winning places. The Student Research Competition
 committee will evaluate and select First-, Second-, and Third- place
 winners. The winners will receive cash awards and SIGAPP recognition
@@ -174,56 +165,56 @@ program for support.
 
 The web-link for the SRC (Student Research Competition) is 
 
-http://www.acm.org/conferences/sac/sac2015/src15.htm
+http://www.acm.org/conferences/sac/sac2016/src16.htm
 
 
-        PC MEMBERS 
+        PC MEMBERS (To be confirmed)
 
-- Laura Bocchi (Imperial College London, UK)
-- Rubén Casado Tejedor (Treelogic, Spain)
-- Mauro Caporuscio (Linnaeus University, Sweden
-- Ana Cavalli (Institut Mines-Telecom/Telecom SudParis, France))
-- Michele Ciavotta (Politecnico di Milano, Italy)
-- Javier Cubo (University of Málaga, Spain)
-- Søren Debois (ITU Copenhagen, Denmark)
-- Nicola Dragoni (Technical University of Denmark, Denmark)
-- Rosa Filgueira Vicente (University of Edinburgh, UK)
-- Silvio Ghilardi (Università degli studi di Milano, Italy)
-- Claudio Guidi (italianaSoftware, Italy)
-- Manuel Mazzara (Innopolis University, Russia and ETH Zurich, Switzerland)
-- Hernán Melgratti (University of Buenos Aires, Argentina)
-- Fabrizio Montesi (University of Southern Denmark, Denmark)
-- Manuel Núñez (University Complutense of Madrid, Spain)
-- Durica Nikolić (ETH Zurich, Switzerland)
-- Nuno Oliveira (Universidade do Minho, Portugal)
-- Kévin Ottens (Klarälvdalens Datakonsult AB, Sweden)
-- César Sánchez (IMDEA Software Institute, Spain)‎
-- Daniel Sykes (Imperial College London, UK)
-- Valentín Valero Ruiz (University Castilla-La Mancha, Spain)
-- Peter Wong (Fredhopper - Amsterdam, Netherlands)
-- Franz Wotawa (Graz University of Technology, Austria)
-- Ilsun You (Korean Bible University, Korea)
-- Fatiha Zaïdi (Université Paris-Sud XI, France)
+- Luís Barbosa (University of Minho, Braga, PT)
+- Massimo Bartoletti (Università di Cagliari, IT)
+- Marcello Maria Bersani (Polytechnic of Milan, IT)
+- Laura Bocchi (University of Kent, UK)
+- Roberto Bruni (Università di Pisa, IT)
+- Marco Carbone (IT University of Copenhagen, DK)
+- Dave Clarke (Uppsala University, SE and KU Leuven, BE)
+- Romain Demangeon (Université Pierre et Marie Curie, FR)
+- Lúcio Ferrão (Outsystems SA, PT)
+- Alessandra Gorla (IMDEA, SP)
+- Vasileios Koutavas (Trinity College Dublin, IR)
+- Alberto Lluch Lafuente (Technical University of Denmark, DK)
+- Philip Mayer (LMU Munich, GE)
+- Manuel Mazzara (Innopolis University, RU)
+- Nicola Mezzetti, (Engineering Group, IT)
+- Corrado Moiso (Telecom Italia, IT)
+- Alberto Núñez (Universidad Complutense de Madrid, SP)
+- Jorge Perez (University of Groningen, NL)
+- Gustavo Petri (Purdue University, USA)
+- António Ravara (New University of Lisbon, PT)
+- Steve Ross-Talbot (ZDLC Business Unit, Cognizant Technology Solutions, UK)
+- Gwen Salaün (INRIA Grenoble - Rhône-Alpes, FR)
+- Francesco Tiezzi (Università di Camerino, IT)
+- Emilio Tuosto (University of Leicester, UK)
+- Massimo Vecchio (CREATE-NET Research Center, IT)
+- Peter Wong (Fredhopper, Amsterdam, NL)
+- Yongluan Zhou (University of Southern Denmark, DK)
 
         TRACK CHAIRS
 
-Marcello Maria Bersani 
-marcellomaria.bersani@polimi.it
-Polytechnic of Milan, Italy
+Maurice ter Beek
+maurice.terbeek@isti.cnr.it
+ISTI-CNR Pisa, IT
 
-Alberto Lluch Lafuente
-albl@dtu.dk
-Technical University of Denmark, Denmark
+Hernán Melgratti
+hmelgra@dc.uba.ar
+University of Buenos Aires, Argentina
 
-Alberto Nunez 
-alberto.nunez@pdi.ucm.es
-Universidad Complutense de Madrid, Spain
-
-
+Hugo Torres Viera
+hugotvieira@imtlucca.it 
+IMT Lucca, IT
 
 		STEERING COMMITTEE
 
-- Claudio Guidi, italianaSoftware, Italy
-- Ivan Lanese, University of Bologna, Italy and INRIA, France
-- Manuel Mazzara, Innopolis University, Russia and ETH Zurich, Switzerland
-- Fabrizio Montesi, University of Southern Denmark, Denmark
+- Claudio Guidi, italianaSoftware, IT
+- Ivan Lanese, University of Bologna, IT and INRIA, FR
+- Manuel Mazzara, Innopolis University, RU
+- Fabrizio Montesi, University of Southern Denmark, DK
