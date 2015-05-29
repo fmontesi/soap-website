@@ -108,8 +108,6 @@ Cloud Computing and Services
 Services and Big Data
 
 
-
-
         SUBMISSIONS
 
 Authors are invited to submit original unpublished papers. Submission
@@ -146,6 +144,7 @@ will result in excluding them from the ACM/IEEE digital library.
 
 We plan to organize one or two special issues depending on the quality of
 the submissions. 
+
 
         STUDENT RESEARCH COMPETITION PROGRAM 
 
@@ -198,11 +197,12 @@ http://www.acm.org/conferences/sac/sac2016/src16.htm
 - Peter Wong (Fredhopper, Amsterdam, NL)
 - Yongluan Zhou (University of Southern Denmark, DK)
 
+
         TRACK CHAIRS
 
 Maurice ter Beek
 maurice.terbeek@isti.cnr.it
-ISTI-CNR Pisa, IT
+ISTI-CNR, Pisa, IT
 
 Hernán Melgratti
 hmelgra@dc.uba.ar
@@ -211,6 +211,7 @@ University of Buenos Aires, Argentina
 Hugo Torres Vieira
 hugotvieira@imtlucca.it 
 IMT Lucca, IT
+
 
 		STEERING COMMITTEE
 
