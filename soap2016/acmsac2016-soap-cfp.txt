@@ -198,7 +198,7 @@ program for support.
 - Gwen Salaün (INRIA Grenoble - Rhône-Alpes, FR)
 - Francesco Tiezzi (Università di Camerino, IT)
 - Emilio Tuosto (University of Leicester, UK)
-- Massimo Vecchio (CREATE-NET Research Center, IT)
+- Massimo Vecchio (Università degli Studi eCampus, IT)
 - Yongluan Zhou (University of Southern Denmark, DK)
 
 
