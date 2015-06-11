@@ -1,16 +1,16 @@
-         SOAP track at SAC
+               SOAP track at SAC
 
-        1st Call for Papers
+              1st Call for Papers
 
- Service-Oriented Architectures and Programming track
- of the 31st ACM/SIGAPP Symposium On Applied Computing 
+Service-Oriented Architectures and Programming track
+of the 31st ACM/SIGAPP Symposium On Applied Computing 
 
-    4-8 April 2016, Pisa, Italy
+          4-8 April 2016, Pisa, Italy
 
-  http://sac-soap.sdu.dk/soap2016
+        http://sac-soap.sdu.dk/soap2016
 
 
-         IMPORTANT DATES
+        IMPORTANT DATES
 
 September 11, 2015: Submission of regular papers and SRC research abstracts
 November 13, 2015: Notification of paper and SRC acceptance/rejection
@@ -87,26 +87,26 @@ software engineering development methodologies supported by dedicated
 tools. In particular, we will encourage works and discussions about 
 what SOP still needs in order to achieve its original goal.
 
-Major topics of interest will include:
+        TOPICS OF INTEREST
 
-Formal methods for Service-Oriented Computing
-Notations, models, and standards for Service-Oriented Computing
-Tools and Middlewares for Service-Oriented Development
-Service-Oriented Programming Languages
-Service Choreographies and Protocol-Driven Service Development
-Service Interfaces and Communication Technologies (e.g., REST)
-Microservices and Scalable Service-Oriented Computing
-Engineering methodologies and Patterns for Service-Oriented Software
-Static Analysis and Testing of Service-Oriented applications
-Adaptability, Dependability, and Fault handling in Service Systems
-Security in Service-Oriented Architectures
-Quality of Service and Performance Analysis
-Industrial deployment of tools and methodologies, case studies
-Service application case studies
-Trust and Services
-Sustainability and Services, Green Computing
-Cloud Computing and Services
-Services and Big Data
+- Formal methods for Service-Oriented Computing
+- Notations, models, and standards for Service-Oriented Computing
+- Tools and Middlewares for Service-Oriented Development
+- Service-Oriented Programming Languages
+- Service Choreographies and Protocol-Driven Service Development
+- Service Interfaces and Communication Technologies (e.g., REST)
+- Microservices and Scalable Service-Oriented Computing
+- Engineering methodologies and Patterns for Service-Oriented Software
+- Static Analysis and Testing of Service-Oriented applications
+- Adaptability, Dependability, and Fault handling in Service Systems
+- Security in Service-Oriented Architectures
+- Quality of Service and Performance Analysis
+- Industrial deployment of tools and methodologies, case studies
+- Service application case studies
+- Trust and Services
+- Sustainability and Services, Green Computing
+- Cloud Computing and Services
+- Services and Big Data
 
 
         SUBMISSIONS
@@ -199,22 +199,14 @@ program for support.
 
         TRACK CHAIRS
 
-Maurice ter Beek
-maurice.terbeek@isti.cnr.it
-ISTI-CNR, Pisa, IT
-
-Hernán Melgratti
-hmelgra@dc.uba.ar
-University of Buenos Aires, Argentina
-
-Hugo Torres Vieira
-hugotvieira@imtlucca.it 
-IMT Lucca, IT
+- Maurice ter Beek (ISTI-CNR, Pisa, IT)
+- Hernán Melgratti (University of Buenos Aires, AR)
+- Hugo Torres Vieira (IMT Lucca, IT)
 
 
-		STEERING COMMITTEE
+        STEERING COMMITTEE
 
-- Claudio Guidi, italianaSoftware, IT
-- Ivan Lanese, University of Bologna, IT and INRIA, FR
-- Manuel Mazzara, Innopolis University, RU
-- Fabrizio Montesi, University of Southern Denmark, DK
+- Claudio Guidi (italianaSoftware, IT)
+- Ivan Lanese (University of Bologna, IT and INRIA, FR)
+- Manuel Mazzara (Innopolis University, RU)
+- Fabrizio Montesi (University of Southern Denmark, DK)
