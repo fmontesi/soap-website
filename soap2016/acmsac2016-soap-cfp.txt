@@ -183,6 +183,7 @@ program for support.
 - Laura Bocchi (University of Kent, UK)
 - Roberto Bruni (Università di Pisa, IT)
 - Marco Carbone (IT University of Copenhagen, DK)
+- Schahram Dustdar (Vienna University of Technology, AT)
 - Romain Demangeon (Université Pierre et Marie Curie, FR)
 - Alessandra Gorla (IMDEA Software Institute, Madrid, SP)
 - Vasileios Koutavas (Trinity College Dublin, IR)
