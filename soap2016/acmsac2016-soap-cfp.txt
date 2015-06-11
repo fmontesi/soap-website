@@ -1,14 +1,16 @@
-	SOAP track CfP
+         SOAP track at SAC
 
-        Call for Papers
+        1st Call for Papers
 
-Service-Oriented Architectures and Programming track
-  of the 31st Symposium On Applied Computing 
+ Service-Oriented Architectures and Programming track
+ of the 31st ACM/SIGAPP Symposium On Applied Computing 
 
-http://sac-soap.sdu.dk/soap2016
+    3-8 April 2016, Pisa, Italy
+
+  http://sac-soap.sdu.dk/soap2016
 
 
-        IMPORTANT DATES
+         IMPORTANT DATES
 
 September 11, 2015: Submission of regular papers and SRC research abstracts
 November 13, 2015: Notification of paper and SRC acceptance/rejection
@@ -85,7 +87,6 @@ software engineering development methodologies supported by dedicated
 tools. In particular, we will encourage works and discussions about 
 what SOP still needs in order to achieve its original goal.
 
-
 Major topics of interest will include:
 
 Formal methods for Service-Oriented Computing
@@ -117,7 +118,7 @@ submissions. Accepted papers will be published in the annual
 conference proceedings. SOAP track chairs will not submit to the
 track. Submissions from SOAP PC members and from PC members and track
 chairs of other SAC tracks are welcome. Submission guidelines
-can be found on SAC 2016 Website:
+can be found on the SAC 2016 website:
     
 	http://www.acm.org/conferences/sac/sac2016/
 
@@ -142,14 +143,24 @@ will result in excluding them from the ACM/IEEE digital library.
 
         SPECIAL ISSUE
 
-We plan to organize one or two special issues depending on the quality of
-the submissions. 
+We plan a special issue of a top-level journal for which we will invite 
+the best papers. 
 
 
         STUDENT RESEARCH COMPETITION PROGRAM 
 
-Graduate students are invited to submit research abstracts (maximum of
-2-page) following the instructions published at SAC 2016 website. 
+As before, SAC 2016 organizes a Student Research Competition (SRC)
+Program to provide graduate students the opportunity to meet and
+exchange ideas with researchers and practitioners in their areas of
+interest. For guidelines and information about the SRC program:
+
+http://www.acm.org/conferences/sac/sac2016/src16.htm. 
+
+Submission of research abstracts (maximum of 2 pages) to the SRC 
+program should be in electronic form via the following website:
+
+http://www.acm.org/conferences/sac/sac2016/SRC-SubmissionUploadPage.htm 
+
 Submission of the same abstract to multiple tracks is not allowed. 
 All research abstract submissions will be reviewed by researchers 
 and practitioners with expertise in the track focus area to which 
@@ -162,39 +173,27 @@ certificates during the conference banquet. Authors of selected
 abstracts are eligible to apply to the SIGAPP Student Travel Award
 program for support.
 
-The web-link for the SRC (Student Research Competition) is 
 
-http://www.acm.org/conferences/sac/sac2016/src16.htm
-
-
-        PC MEMBERS (To be confirmed)
+        PC MEMBERS (to be completed)
 
 - Luís Barbosa (University of Minho, Braga, PT)
 - Massimo Bartoletti (Università di Cagliari, IT)
-- Marcello Maria Bersani (Polytechnic of Milan, IT)
+- Marcello M. Bersani (Polytecnico di Milano, IT)
 - Laura Bocchi (University of Kent, UK)
 - Roberto Bruni (Università di Pisa, IT)
-- Marco Carbone (IT University of Copenhagen, DK)
-- Dave Clarke (Uppsala University, SE and KU Leuven, BE)
 - Romain Demangeon (Université Pierre et Marie Curie, FR)
-- Lúcio Ferrão (OutSystems SA, PT)
-- Alessandra Gorla (IMDEA, SP)
 - Vasileios Koutavas (Trinity College Dublin, IR)
 - Alberto Lluch Lafuente (Technical University of Denmark, DK)
-- Philip Mayer (LMU Munich, GE)
 - Manuel Mazzara (Innopolis University, RU)
-- Nicola Mezzetti, (Engineering Group, IT)
+- Nicola Mezzetti (Engineering Group, IT)
 - Corrado Moiso (Telecom Italia, IT)
-- Alberto Núñez (Universidad Complutense de Madrid, SP)
-- Jorge Perez (University of Groningen, NL)
+- Jorge A. Perez (University of Groningen, NL)
 - Gustavo Petri (Purdue University, USA)
 - António Ravara (New University of Lisbon, PT)
-- Steve Ross-Talbot (ZDLC Business Unit, Cognizant Technology Solutions, UK)
 - Gwen Salaün (INRIA Grenoble - Rhône-Alpes, FR)
 - Francesco Tiezzi (Università di Camerino, IT)
 - Emilio Tuosto (University of Leicester, UK)
 - Massimo Vecchio (CREATE-NET Research Center, IT)
-- Peter Wong (Fredhopper, Amsterdam, NL)
 - Yongluan Zhou (University of Southern Denmark, DK)
 
 
