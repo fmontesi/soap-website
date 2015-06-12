@@ -93,6 +93,7 @@ what SOP still needs in order to achieve its original goal.
 - Notations, models, and standards for Service-Oriented Computing
 - Tools and Middlewares for Service-Oriented Development
 - Service-Oriented Programming Languages
+- Service-Oriented Programming in dynamic Open Service Ecosystems
 - Service Choreographies and Protocol-Driven Service Development
 - Service Interfaces and Communication Technologies (e.g., REST)
 - Microservices and Scalable Service-Oriented Computing
