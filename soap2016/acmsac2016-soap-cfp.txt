@@ -20,72 +20,70 @@ December 18, 2015: Author registration due date
 
         ACM SAC 2016
 
-For the past thirty years, the ACM Symposium on Applied
-Computing has been a primary gathering forum for applied computer
-scientists, computer engineers, software engineers, and application
-developers from around the world. SAC 2016 is sponsored by the ACM
-Special Interest Group on Applied Computing (SIGAPP), and will be 
-held in Pisa (Italy).
+For the past thirty years, the ACM Symposium on Applied Computing 
+has been a primary gathering forum for applied computer scientists, 
+computer engineers, software engineers, and application developers 
+from around the world. SAC 2016 is sponsored by the ACM Special 
+Interest Group on Applied Computing (SIGAPP), and will be held in 
+Pisa (Italy).
 
 
         SOAP TRACK: CALL FOR PAPERS
 
-Service-Oriented Programming (SOP) is quickly changing our vision of 
-software development, bringing a paradigmatic shift in the methodologies 
-followed by programmers when designing and implementing distributed 
-systems. SOP originally triggered a radical transformation of the Web, 
-from being a means of presenting information to a wide spectrum of people
-to becoming a computational fabric. In such fabric, loosely-coupled services 
-publish their interfaces and, through them, discover and interact with each 
-other abstracting from their internal implementations. While this 
-transformation still continues today, it has also already generated other 
-shifts in how programmers deal with resource handling (Cloud Computing) and 
-the scalability of software architectures from the very small to the very 
-large (Microservices). Research on SOP is giving strong impetus to the 
-development of new technologies and tools for creating and deploying 
-distributed software. In the context of this modern paradigm we have to 
-cope with an old challenge, like in the early days of Object-Oriented 
-Programming (OOP) when, until key features like encapsulation, inheritance, 
-and polymorphism, and proper design methodologies were defined, consistency 
-in the programming model definition was not achieved. The complex scenario of 
-SOP needs to be clarified on many aspects, both from the engineering and 
-from the foundational points of view.
+Service-Oriented Programming (SOP) is quickly changing our vision 
+of software development, bringing a paradigmatic shift in the 
+methodologies followed by programmers when designing and implementing 
+distributed systems. SOP originally triggered a radical transformation 
+of the Web, from being a means of presenting information to a wide 
+spectrum of people to becoming a computational fabric. In such fabric, 
+loosely-coupled services publish their interfaces and, through them, 
+discover and interact with each other abstracting from their internal 
+implementations. While this transformation still continues today, it 
+has also already generated other shifts in how programmers deal with 
+resource handling (Cloud Computing) and the scalability of software 
+architectures from the very small to the very large (Microservices). 
+Research on SOP is giving strong impetus to the development of new 
+technologies and tools for creating and deploying distributed software. 
+In the context of this modern paradigm we have to cope with an old 
+challenge, like in the early days of Object-Oriented Programming (OOP) 
+when consistency in the programming model definition was not achieved 
+until the introduction of key features like encapsulation, inheritance, 
+and polymorphism, together with proper design methodologies. The complex 
+scenario of SOP needs to be clarified on many aspects, both from the 
+engineering and from the foundational points of view.
 
-From the engineering point of view, there are open issues at many 
-levels. Among others, at the system design level, both traditional 
-approaches based on UML and approaches taking inspiration from 
-business process modelling, e.g. BPMN, are used. At the composition 
-level, orchestration and choreography are continuously improved both 
-formally and practically, with an evident need for their integration in 
-the development process. At the description and discovery level there are 
-two separate communities pushing respectively the semantic approach (ontologies, 
-OWL, ...) and the syntactic one like WSDL. In particular, the role of discovery 
-engines and protocols is not clear. In this respect we still lack adopted 
-standards: UDDI looked to be a good candidate, but it is no longer pushed by 
-the main corporations, and its wide adoption seems difficult. Furthermore, a new 
+From the engineering point of view, there are open issues at many levels. 
+Among others, at the system design level, both traditional approaches 
+based on UML and approaches taking inspiration from business process 
+modelling, e.g. BPMN, are used. At the composition level, orchestration 
+and choreography are continuously improved both formally and practically, 
+with an evident need for their integration in the development process. 
+At the description and discovery level there are two separate communities 
+pushing respectively the semantic approach (ontologies, OWL, ...) and the 
+syntactic one like WSDL. In particular, the role of discovery engines and 
+protocols is not clear. In this respect we still lack adopted standards: 
+UDDI looked to be a good candidate, but it is no longer pushed by the main 
+corporations, and its wide adoption seems difficult. Furthermore, a recent
 implementation platform, the so-called REST services, is emerging and 
-competing with classic Web Services. Finally, features like Quality 
-of Service, security and dependability need to be taken seriously 
-into account, and this investigation should lead to standard 
-proposals.
+competing with classic Web Services. Finally, features like Quality of 
+Service, security and dependability need to be taken seriously into account, 
+and this investigation should lead to standard proposals.
 
-From the foundational point of view, formalists have discussed widely
-in the last years, and many attempts to use formal methods for 
-specification and verification in this setting have been made. 
-Session correlation, service types, contract theories and 
-communication patterns are only a few examples of the aspects that 
-have been investigated. Moreover, several formal models based upon 
-automata, Petri nets and algebraic approaches have been developed. 
-However most of these approaches concentrate only on a few features 
-of Service-Oriented Systems in isolation, and a comprehensive approach 
-is still far from being achieved.
+From the foundational point of view, researchers have discussed widely in 
+the last years, and many attempts to use formal methods for specification 
+and verification in this setting have been made. Session correlation, service 
+types, contract theories and communication patterns are only a few examples 
+of the aspects that have been investigated. Moreover, several formal models 
+based upon automata, Petri nets and algebraic approaches have been developed. 
+However, most of these approaches concentrate only on a few features of 
+Service-Oriented Systems in isolation, and a comprehensive approach is still 
+far from being achieved.
 
-Our track aims at bringing together researchers and practitioners 
-having the common objective of transforming SOP into a mature 
-discipline with both solid scientific foundations and mature 
-software engineering development methodologies supported by dedicated
-tools. In particular, we will encourage works and discussions about 
-what SOP still needs in order to achieve its original goal.
+Our track aims at bringing together researchers and practitioners having the 
+common objective of transforming SOP into a mature discipline with both solid 
+scientific foundations and mature software engineering development methodologies 
+supported by dedicated tools. In particular, we will encourage works and 
+discussions about what SOP still needs in order to achieve its original goal.
 
         TOPICS OF INTEREST
 
@@ -114,12 +112,11 @@ what SOP still needs in order to achieve its original goal.
 
 Authors are invited to submit original unpublished papers. Submission
 of the same paper to multiple tracks is not allowed. Peer groups with
-expertise in the track focus area will double-blindly review
-submissions. Accepted papers will be published in the annual
-conference proceedings. SOAP track chairs will not submit to the
-track. Submissions from SOAP PC members and from PC members and track
-chairs of other SAC tracks are welcome. Submission guidelines
-can be found on the SAC 2016 website:
+expertise in the track focus area will double-blindly review submissions. 
+Accepted papers will be published in the annual conference proceedings. 
+SOAP track chairs will not submit to the track. Submissions from SOAP PC 
+members and from PC members and track chairs of other SAC tracks are 
+welcome. Submission guidelines can be found on the SAC 2016 website:
     
 	http://www.acm.org/conferences/sac/sac2016/
 
