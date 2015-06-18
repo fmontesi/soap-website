@@ -194,6 +194,7 @@ program for support.
 - Jorge A. Perez (University of Groningen, NL)
 - Gustavo Petri (Purdue University, USA)
 - António Ravara (New University of Lisbon, PT)
+- Steve Ross-Talbot (Cognizant Technology Solutions, UK)
 - Gwen Salaün (INRIA Grenoble - Rhône-Alpes, FR)
 - Francesco Tiezzi (Università di Camerino, IT)
 - Emilio Tuosto (University of Leicester, UK)
