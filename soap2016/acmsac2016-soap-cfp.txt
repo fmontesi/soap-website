@@ -178,7 +178,7 @@ program for support.
 - Farhad Arbab (Leiden University and CWI, Amsterdam, NL) 
 - Luís Barbosa (University of Minho, Braga, PT)
 - Massimo Bartoletti (Università di Cagliari, IT)
-- Marcello M. Bersani (Polytecnico di Milano, IT)
+- Marcello M. Bersani (Politecnico di Milano, IT)
 - Laura Bocchi (University of Kent, UK)
 - Roberto Bruni (Università di Pisa, IT)
 - Marco Carbone (IT University of Copenhagen, DK)
