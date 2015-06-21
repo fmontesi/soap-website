@@ -120,10 +120,6 @@ welcome. Submission guidelines can be found on the SAC 2016 website:
     
 	http://www.acm.org/conferences/sac/sac2016/
 
-The submission web-link (START system) for regular papers is 
-
-http://www.acm.org/conferences/sac/sac2016/Paper-SubmissionUploadPage.htm
-
 Prospective papers should be submitted to the track using the provided
 automated submission system. Please pay attention to ensure anonymity
 of your submitted manuscript as detailed in the submission page so to
@@ -156,9 +152,9 @@ interest. For guidelines and information about the SRC program:
 http://www.acm.org/conferences/sac/sac2016/src16.htm. 
 
 Submission of research abstracts (maximum of 2 pages) to the SRC 
-program should be in electronic form via the following website:
+program should be in electronic form via the SAC 2016 website:
 
-http://www.acm.org/conferences/sac/sac2016/SRC-SubmissionUploadPage.htm 
+http://www.acm.org/conferences/sac/sac2016/
 
 Submission of the same abstract to multiple tracks is not allowed. 
 All research abstract submissions will be reviewed by researchers 
