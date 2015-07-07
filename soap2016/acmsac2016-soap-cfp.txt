@@ -195,6 +195,7 @@ program for support.
 - Francesco Tiezzi (Università di Camerino, IT)
 - Emilio Tuosto (University of Leicester, UK)
 - Massimo Vecchio (Università degli Studi eCampus, IT)
+- Peter Wong (Travelex, UK)
 - Yongluan Zhou (University of Southern Denmark, DK)
 
 
