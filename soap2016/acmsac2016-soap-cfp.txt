@@ -1,13 +1,13 @@
                SOAP track at SAC
 
-              1st Call for Papers
+                Call for Papers
 
 Service-Oriented Architectures and Programming track
 of the 31st ACM/SIGAPP Symposium On Applied Computing 
 
           4-8 April 2016, Pisa, Italy
 
-        http://sac-soap.sdu.dk/soap2016
+        http://sac-soap.sdu.dk/soap2016/
 
 
         IMPORTANT DATES
