@@ -12,7 +12,7 @@ of the 31st ACM/SIGAPP Symposium On Applied Computing
 
         IMPORTANT DATES
 
-September 11, 2015: Submission of regular papers and SRC research abstracts
+**September 21**, 2015: Submission of regular papers and SRC research abstracts
 November 13, 2015: Notification of paper and SRC acceptance/rejection
 December 11, 2015: Camera-ready copies of accepted papers/SRC
 December 18, 2015: Author registration due date
@@ -184,7 +184,7 @@ program for support.
 - Vasileios Koutavas (Trinity College Dublin, IR)
 - Alberto Lluch Lafuente (Technical University of Denmark, DK)
 - Manuel Mazzara (Innopolis University, RU)
-- Nicola Mezzetti (Engineering Group, IT)
+- Nicola Mezzetti (University of Trento, IT)
 - Corrado Moiso (Telecom Italia, IT)
 - Alberto Núñez (Universidad Complutense de Madrid, SP)
 - Jorge A. Perez (University of Groningen, NL)
