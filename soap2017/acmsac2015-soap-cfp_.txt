@@ -1,0 +1,222 @@
+	SOAP track CfP
+
+        Call for Papers
+
+Service-Oriented Architectures and Programming track
+  of the 30th Symposium On Applied Computing 
+
+www.itu.dk/acmsac2015-soap/ 
+
+
+        IMPORTANT DATES (strict)
+
+September 12, 2014: Submission of regular papers and SRC research abstracts
+November 17, 2014: Notification of paper and SRC acceptance/rejection
+December 08, 2014: Camera-ready copies of accepted papers/SRC
+December 15, 2014: Author registration due date
+
+
+        ACM SAC 2015
+
+For the past thirty years, the ACM Symposium on Applied
+Computing has been a primary gathering forum for applied computer
+scientists, computer engineers, software engineers, and application
+developers from around the world. SAC 2015 is sponsored by the ACM
+Special Interest Group on Applied Computing (SIGAPP), and is held at 
+Salamanca (Spain).
+
+
+        SOAP TRACK: CALL FOR PAPERS
+
+Service-Oriented Programming (SOP) is quickly changing our vision of 
+the Web, bringing a paradigmatic shift in the methodologies followed 
+by programmers when designing and implementing distributed systems. 
+Originally, the Web was mainly seen as a means of presenting 
+information to a wide spectrum of people, but SOP is triggering a 
+radical transformation of the Web towards a computational fabric 
+where loosely coupled services interact publishing their interfaces 
+inside dedicated repositories, where they can be discovered by other 
+services and then invoked, abstracting from their actual 
+implementation. Research on SOP is giving strong impetus to the 
+development of new technologies and tools for creating and deploying 
+distributed software. In the context of this modern paradigm we have 
+to cope with an old challenge, like in the early days of 
+Object-Oriented Programming (OOP) when, until key features like 
+encapsulation, inheritance, and polymorphism, and proper design 
+methodologies were defined, consistency in the programming model 
+definition was not achieved. The complex scenario of SOP needs to be 
+clarified on many aspects, both from the engineering and from the 
+foundational points of view.
+
+From the engineering point of view, there are open issues at many 
+levels. Among others, at the system design level, both traditional 
+approaches based on UML and approaches taking inspiration from 
+business process modelling, e.g. BPMN, are used. At the composition 
+level, although WS-BPEL is a de-facto industrial standard, other 
+approaches are appearing, and both the orchestration and choreography 
+views have their supporters. At the description and discovery level 
+there are two separate communities pushing respectively the semantic 
+approach (ontologies, OWL, ...) and the syntactic one like WSDL. In 
+particular, the role of discovery engines and protocols is not clear. 
+In this respect we still lack adopted standards: UDDI looked to be a 
+good candidate, but it is no longer pushed by the main corporations, 
+and its wide adoption seems difficult. Furthermore, a new 
+implementation platform, the so-called REST services, is emerging and 
+competing with classic Web Services. Finally, features like Quality 
+of Service, security and dependability need to be taken seriously 
+into account, and this investigation should lead to standard 
+proposals.
+
+From the foundational point of view, formalists have discussed widely
+in the last years, and many attempts to use formal methods for 
+specification and verification in this setting have been made. 
+Session correlation, service types, contract theories and 
+communication patterns are only a few examples of the aspects that 
+have been investigated. Moreover, several formal models based upon 
+automata, Petri nets and algebraic approaches have been developed. 
+However most of these approaches concentrate only on a few features 
+of Service-Oriented Systems in isolation, and a comprehensive approach 
+is still far from being achieved.
+
+Our track aims at bringing together researchers and practitioners 
+having the common objective of transforming SOP into a mature 
+discipline with both solid scientific foundations and mature 
+software engineering development methodologies supported by dedicated
+tools. In particular, we will encourage works and discussions about 
+what SOP still needs in order to achieve its original goal.
+
+
+Major topics of interest will include:
+
+- Formal methods for specification of Web Services 
+- Notations and models for Service-Oriented Computing 
+- Methodologies and tools for Service-Oriented application design 
+- Service-Oriented Middlewares 
+- Service-Oriented Programming languages 
+- Test methodologies for Service-Oriented applications 
+- Analysis techniques and tools 
+- Service systems performance analysis 
+- Industrial deployment of tools and methodologies 
+- Standards for Service Oriented Programming 
+- Service application case studies 
+- Dependability and Web Services 
+- Quality of Service - Security issues in Service-Oriented Computing 
+- Comparisons between different approaches to Services 
+- Exception handling in composition languages 
+- Trust and Web Services 
+- Sustainability and Web Services, Green Computing 
+- Adaptable Web Services
+
+
+
+        SUBMISSIONS
+
+Authors are invited to submit original unpublished papers. Submission
+of the same paper to multiple tracks is not allowed. Peer groups with
+expertise in the track focus area will double-blindly review
+submissions. Accepted papers will be published in the annual
+conference proceedings. SOAP track chairs will not submit to the
+track. Submissions from SOAP PC members and from PC members and track
+chairs of other SAC tracks are welcome. Submission guidelines
+can be found on SAC 2015 Website:
+    
+	http://www.acm.org/conferences/sac/sac2015/
+
+The submission web-link (START system) for regular papers is 
+
+http://www.acm.org/conferences/sac/sac2015/Paper-SubmissionUploadPage.htm
+
+Prospective papers should be submitted to the track using the provided
+automated submission system. Please pay attention to ensure anonymity
+of your submitted manuscript as detailed in the submission page so to
+allow for double-blind review. Papers not satisfying this constraint
+will be automatically rejected. The maximum length for papers is 8
+pages. Accepted papers whose camera-ready version will exceed 6 pages
+will have to pay an extra charge. 
+
+Paper registration is required, allowing the inclusion of the paper/poster
+in the conference proceedings. An author or a proxy attending SAC MUST present
+the paper. This is a requirement for the paper/poster to be included
+in the ACM/IEEE digital library. No-show of scheduled papers and posters
+will result in excluding them from the ACM/IEEE digital library.
+
+
+        SPECIAL ISSUE
+
+Authors of best papers will be invited to submit an extended and revised 
+version of their work to a special issue of an indexed journal.
+
+
+        STUDENT RESEARCH COMPETITION PROGRAM 
+
+Graduate students are invited to submit research abstracts (minimum of
+2-page and maximum of 4-page) following the instructions published at
+SAC 2014 website. Submission of the same abstract to multiple tracks
+is not allowed. All research abstract submissions will be reviewed by
+researchers and practitioners with expertise in the track focus area
+to which they are submitted. Authors of selected abstracts will have
+the opportunity to give poster presentations of their work and compete
+for three top-winning places. The Student Research Competition
+committee will evaluate and select First-, Second-, and Third- place
+winners. The winners will receive cash awards and SIGAPP recognition
+certificates during the conference banquet. Authors of selected
+abstracts are eligible to apply to the SIGAPP Student Travel Award
+program for support.
+
+The web-link for the SRC (Student Research Competition) is 
+
+http://www.acm.org/conferences/sac/sac2015/src15.htm
+
+
+        PC MEMBERS 
+
+- Laura Bocchi (Imperial College London, UK)
+- Rubén Casado Tejedor (Treelogic, Spain)
+- Ana Cavalli (TELECOM & Management SudParis, France)
+- Mauro Caporuscio (Linnaeus University, Sweden)
+- Michele Ciavotta (Politecnico di Milano, Italy)
+- Javier Cubo (University of Málaga, Spain)
+- Nicola Dragoni (Technical University of Denmark, Denmark)
+- Rosa Filgueira Vicente (University of Edinburgh, UK)
+- Claudio Guidi (italianaSoftware, University of Bologna, Italy and INRIA, France)
+- Manuel Mazzara (Innopolis University, Russia and ETH Zurich)
+- Fabrizio Montesi (IT Copenhagen, Denmark)
+- Manuel Núñez (University Complutense of Madrid, Spain)
+- Durica Nikolić (ETH Zurich, Switzerland)
+- Nuno Oliveira (Universidade do Minho, Portugal)
+- Kévin Ottens (Klarälvdalens Datakonsult AB, Sweden)
+- César Sánchez (IMDEA Software Institute, Spain)‎
+- Daniel Sykes (Imperial College London, UK)
+- Valentín Valero Ruiz (University Castilla-La Mancha, Spain)
+- Peter Wong (Fredhopper - Amsterdam, Netherlands)
+- Franz Wotawa (Graz University of Technology, Austria)
+- Ilsun You (Korean Bible University, Korea)
+- Fatiha Zaïdi (Université Paris-Sud XI, France)
+- Hernán Melgratti (University of Buenos Aires, Argentina)
+- Silvio Ghilardi (Università degli studi di Milano, Italy)
+
+
+        TRACK CHAIRS
+
+Alberto Lluch Lafuente
+alberto.lluch@imtulucca.it
+IMT Institute for Advanced Studies Lucca, Italy
+
+Marcello Maria Bersani 
+marcellomaria.bersani@polimi.it
+Polytechnic of Milan, Italy
+
+Alberto Nunez 
+alberto.nunez@pdi.ucm.es
+Universidad Complutense de Madrid, Spain
+
+
+
+		STEERING COMMITTEE
+
+- Claudio Guidi, italianaSoftware, University of Bologna, Italy and INRIA, France
+- Ivan Lanese, University of Bologna, Italy and INRIA, France
+- Manuel Mazzara, Innopolis University, Russia and ETH Zurich
+- Fabrizio Montesi, IT University of Copenhagen
+
+
