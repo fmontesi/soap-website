@@ -3,29 +3,29 @@
                 Call for Papers
 
 Service-Oriented Architectures and Programming track
-of the 31st ACM/SIGAPP Symposium On Applied Computing 
+of the 32st ACM/SIGAPP Symposium On Applied Computing 
 
-          4-8 April 2016, Pisa, Italy
+        27-31 March 2017, Marrakech, Morocco
 
-        http://sac-soap.sdu.dk/soap2016/
+             http://sac-soap.sdu.dk/
 
 
         IMPORTANT DATES
 
-**September 21**, 2015: Submission of regular papers and SRC research abstracts
-November 13, 2015: Notification of paper and SRC acceptance/rejection
-December 11, 2015: Camera-ready copies of accepted papers/SRC
-December 18, 2015: Author registration due date
+**September 15**, 2016: Submission of regular papers and SRC research abstracts
+November 10, 2016: Notification of paper and SRC acceptance/rejection
+November 25, 2016: Camera-ready copies of accepted papers/SRC
+December 10, 2016: Author registration due date
 
 
-        ACM SAC 2016
+        ACM SAC 2017
 
 For the past thirty years, the ACM Symposium on Applied Computing 
 has been a primary gathering forum for applied computer scientists, 
 computer engineers, software engineers, and application developers 
-from around the world. SAC 2016 is sponsored by the ACM Special 
+from around the world. SAC 2017 is sponsored by the ACM Special 
 Interest Group on Applied Computing (SIGAPP), and will be held in 
-Pisa (Italy).
+Marrakech (Morocco).
 
 
         SOAP TRACK: CALL FOR PAPERS
@@ -116,9 +116,9 @@ expertise in the track focus area will double-blindly review submissions.
 Accepted papers will be published in the annual conference proceedings. 
 SOAP track chairs will not submit to the track. Submissions from SOAP PC 
 members and from PC members and track chairs of other SAC tracks are 
-welcome. Submission guidelines can be found on the SAC 2016 website:
+welcome. Submission guidelines can be found on the SAC 2017 website:
     
-	http://www.acm.org/conferences/sac/sac2016/
+	http://www.acm.org/conferences/sac/sac2017/
 
 Prospective papers should be submitted to the track using the provided
 automated submission system. Please pay attention to ensure anonymity
@@ -144,17 +144,17 @@ the best papers.
 
         STUDENT RESEARCH COMPETITION PROGRAM 
 
-As before, SAC 2016 organizes a Student Research Competition (SRC)
+As before, SAC 2017 organizes a Student Research Competition (SRC)
 Program to provide graduate students the opportunity to meet and
 exchange ideas with researchers and practitioners in their areas of
 interest. For guidelines and information about the SRC program:
 
-http://www.acm.org/conferences/sac/sac2016/src16.htm. 
+http://www.acm.org/conferences/sac/sac2017/src17.htm. 
 
 Submission of research abstracts (maximum of 2 pages) to the SRC 
-program should be in electronic form via the SAC 2016 website:
+program should be in electronic form via the SAC 2017 website:
 
-http://www.acm.org/conferences/sac/sac2016/
+http://www.acm.org/conferences/sac/sac2017/
 
 Submission of the same abstract to multiple tracks is not allowed. 
 All research abstract submissions will be reviewed by researchers 
@@ -171,39 +171,14 @@ program for support.
 
         PC MEMBERS
 
-- Farhad Arbab (Leiden University and CWI, Amsterdam, NL) 
-- Luís Barbosa (University of Minho, Braga, PT)
-- Massimo Bartoletti (Università di Cagliari, IT)
-- Marcello M. Bersani (Politecnico di Milano, IT)
-- Laura Bocchi (University of Kent, UK)
-- Roberto Bruni (Università di Pisa, IT)
-- Marco Carbone (IT University of Copenhagen, DK)
-- Romain Demangeon (Université Pierre et Marie Curie, FR)
-- Schahram Dustdar (Vienna University of Technology, AT)
-- Alessandra Gorla (IMDEA Software Institute, Madrid, SP)
-- Vasileios Koutavas (Trinity College Dublin, IR)
-- Alberto Lluch Lafuente (Technical University of Denmark, DK)
-- Manuel Mazzara (Innopolis University, RU)
-- Nicola Mezzetti (University of Trento, IT)
-- Corrado Moiso (Telecom Italia, IT)
-- Alberto Núñez (Universidad Complutense de Madrid, SP)
-- Jorge A. Perez (University of Groningen, NL)
-- Gustavo Petri (Purdue University, USA)
-- António Ravara (New University of Lisbon, PT)
-- Steve Ross-Talbot (Cognizant Technology Solutions, UK)
-- Gwen Salaün (INRIA Grenoble - Rhône-Alpes, FR)
-- Francesco Tiezzi (Università di Camerino, IT)
-- Emilio Tuosto (University of Leicester, UK)
-- Massimo Vecchio (Università degli Studi eCampus, IT)
-- Peter Wong (Travelex, UK)
-- Yongluan Zhou (University of Southern Denmark, DK)
-
+== to be announced ==
 
         TRACK CHAIRS
 
 - Maurice ter Beek (ISTI-CNR, Pisa, IT)
-- Hernán Melgratti (University of Buenos Aires, AR)
-- Hugo Torres Vieira (IMT Lucca, IT)
+- Hern�n Melgratti (University of Buenos Aires, AR)
+- Massimo Bartoletti (Universit� di Cagliari, IT)
+- Lu�s Cruz-Filipe (University of Southern Denmark, DK)
 
 
         STEERING COMMITTEE
