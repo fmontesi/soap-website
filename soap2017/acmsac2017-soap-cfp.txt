@@ -5,7 +5,7 @@
 Service-Oriented Architectures and Programming track
 of the 32st ACM/SIGAPP Symposium On Applied Computing 
 
-        27-31 March 2017, Marrakech, Morocco
+        3-7 April 2017, Marrakech, Morocco
 
              http://sac-soap.sdu.dk/
 
@@ -176,9 +176,9 @@ program for support.
         TRACK CHAIRS
 
 - Maurice ter Beek (ISTI-CNR, Pisa, IT)
-- Hern·n Melgratti (University of Buenos Aires, AR)
-- Massimo Bartoletti (Universit‡ di Cagliari, IT)
-- LuÌs Cruz-Filipe (University of Southern Denmark, DK)
+- Hern√°n Melgratti (University of Buenos Aires, AR)
+- Massimo Bartoletti (Universit√† di Cagliari, IT)
+- Lu√≠s Cruz-Filipe (University of Southern Denmark, DK)
 
 
         STEERING COMMITTEE
