@@ -171,23 +171,24 @@ program for support.
 
         PC MEMBERS
 
-Nazareno Aguirre (Universidad de Río Cuarto, AR)
+Nazareno Aguirre (Universidad de RÃ­o Cuarto, AR)
 Farhad Arbab (Leiden University and CWI, Amsterdam, NL)
-Luís Barbosa (University of Minho, Braga, PT)
+LuÃ­s Barbosa (University of Minho, Braga, PT)
 Antonio Bucchiarone (FBK, Trento, IT)
 Marco Carbone (IT University of Copenhagen, DK)
-Romain Demangeon (Université Pierre et Marie Curie, FR)
+Romain Demangeon (UniversitÃ© Pierre et Marie Curie, FR)
 Schahram Dustdar (Vienna University of Technology, AT)
-Gian Luigi Ferrari (Università di Pisa, IT)
-José Fiadeiro (Royal Holloway University of London, UK)
+Gian Luigi Ferrari (UniversitÃ  di Pisa, IT)
+JosÃ© Fiadeiro (Royal Holloway University of London, UK)
 Saverio Giallorenzo (University of Bologna, IT)
 Ross Horne (Nanyang Technological University, SG)
 Vasileios Koutavas (Trinity College Dublin, IR)
 Alberto Lluch Lafuente (Technical University of Denmark, DK)
-Alberto Núñez (Universidad Complutense de Madrid, SP)
+Corrado Moiso (Telecom Italia, Torino, IT)
+Alberto NÃºÃ±ez (Universidad Complutense de Madrid, SP)
 Jorge A. Perez (University of Groningen, NL)
-Gustavo Petri (Université Paris Diderot - Paris 7, FR)
-Gwen Salaün (Inria Grenoble - Rhône-Alpes, FR)
+Gustavo Petri (UniversitÃ© Paris Diderot - Paris 7, FR)
+Gwen SalaÃ¼n (Inria Grenoble - RhÃ´ne-Alpes, FR)
 Alceste Scalas (Imperial College London, UK)
 Hugo Torres Vieira (IMT Lucca, IT)
 Emilio Tuosto (University of Leicester, UK)
@@ -196,9 +197,9 @@ Yongluan Zhou (University of Southern Denmark, DK)
         TRACK CHAIRS
 
 - Maurice ter Beek (ISTI-CNR, Pisa, IT)
-- Hernán Melgratti (University of Buenos Aires, AR)
-- Massimo Bartoletti (UniversitÃ  di Cagliari, IT)
-- Luís Cruz-Filipe (University of Southern Denmark, DK)
+- HernÃ¡n Melgratti (University of Buenos Aires, AR)
+- Massimo Bartoletti (UniversitÃƒÂ  di Cagliari, IT)
+- LuÃ­s Cruz-Filipe (University of Southern Denmark, DK)
 
 
         STEERING COMMITTEE
