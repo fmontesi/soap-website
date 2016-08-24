@@ -149,7 +149,7 @@ Program to provide graduate students the opportunity to meet and
 exchange ideas with researchers and practitioners in their areas of
 interest. For guidelines and information about the SRC program:
 
-	http://www.sigapp.org/conferences/sac/sac2017/src17.htm 
+        http://www.sigapp.org/sac/sac2017/src.html
 
 Submission of research abstracts (maximum of 2 pages) to the SRC 
 program should be in electronic form via the SAC 2017 website:
