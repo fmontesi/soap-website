@@ -12,9 +12,9 @@ of the 32st ACM/SIGAPP Symposium On Applied Computing
 
         IMPORTANT DATES
 
-**September 29**, 2016: Submission of regular papers and SRC research abstracts
-November 10, 2016: Notification of paper and SRC acceptance/rejection
-November 25, 2016: Camera-ready copies of accepted papers/SRC
+**October 7**, 2016: Submission of regular papers and SRC research abstracts
+November 18, 2016: Notification of paper and SRC acceptance/rejection
+December 2, 2016: Camera-ready copies of accepted papers/SRC
 December 10, 2016: Author registration due date
 
 
