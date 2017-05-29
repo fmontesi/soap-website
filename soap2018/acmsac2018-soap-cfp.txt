@@ -106,6 +106,7 @@ discussions about what SOP still needs in order to achieve its original goal.
 - Sustainability and Services, Green Computing
 - Cloud Computing and Services
 - Services and Big Data
+- IoT and Cloud-based Services
 
 
         SUBMISSIONS
@@ -206,7 +207,7 @@ Roberto Zunino (University of Trento, IT)
 
 - Massimo Bartoletti (Università di Cagliari, IT)
 - Luís Cruz-Filipe (University of Southern Denmark, DK)
-- Gwen Salaün (Inria Grenoble - Rhône-Alpes, FR)
+- Gwen Salaün (Université Grenoble Alpes, FR)
 
         STEERING COMMITTEE
 
