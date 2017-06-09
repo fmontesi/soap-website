@@ -119,7 +119,7 @@ SOAP track chairs will not submit to the track. Submissions from SOAP PC
 members and from PC members and track chairs of other SAC tracks are 
 welcome. Submission guidelines can be found on the SAC 2018 website:
     
-	http://www.sigapp.org/conferences/sac/sac2018/
+	http://www.sigapp.org/sac/sac2018/
 
 Prospective papers should be submitted to the track using the provided
 automated submission system. Please pay attention to ensure anonymity
@@ -148,12 +148,8 @@ the best papers.
 As before, SAC 2018 organizes a Student Research Competition (SRC)
 Program to provide graduate students the opportunity to meet and
 exchange ideas with researchers and practitioners in their areas of
-interest. For guidelines and information about the SRC program:
-
-        http://www.sigapp.org/sac/sac2018/src.html
-
-Submission of research abstracts (maximum of 2 pages) to the SRC 
-program should be in electronic form via the SAC 2018 website:
+interest.  Submission of research abstracts (maximum of 2 pages) to
+the SRC program should be in electronic form via the SAC 2018 website:
 
 	http://www.sigapp.org/conferences/sac/sac2018/
 
@@ -206,6 +202,10 @@ Roberto Zunino (University of Trento, IT)
 - Massimo Bartoletti (Università di Cagliari, IT)
 - Luís Cruz-Filipe (University of Southern Denmark, DK)
 - Gwen Salaün (Université Grenoble Alpes, FR)
+
+        PUBLICITY CHAIR
+ 
+- Stefano Lande (Università di Cagliari, IT)
 
         STEERING COMMITTEE
 
