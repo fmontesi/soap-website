@@ -125,8 +125,8 @@ Prospective papers should be submitted to the track using the provided
 automated submission system. Please pay attention to ensure anonymity
 of your submitted manuscript as detailed in the submission page so to
 allow for double-blind review. Papers not satisfying this constraint
-will be automatically rejected. The maximum length for papers is 8
-pages. Accepted papers whose camera-ready version will exceed 6 pages
+will be automatically rejected. The maximum length for papers is 10
+pages. Accepted papers whose camera-ready version will exceed 8 pages
 will have to pay an extra charge. 
 
 Paper registration is required, allowing the inclusion of the papers, 
