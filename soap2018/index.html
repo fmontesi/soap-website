@@ -1,381 +1,394 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta name="keywords"
-content="Fabrizio Montesi
-	Ivan Lanese
-	Manuel Mazzara
-	Claudio Guidi
-	Hugo Torres Vieira
-	Maurice ter Beek
-	Service-Oriented Computing
-	Service-Oriented Computing
-	Service-Oriented Architectures
-	Service-Oriented Architectures
-	Communication-Centred Programming
-	Process Calculi
-	Process Calculus
-	Process-Calculi
-	Process-Calculus
-	Pi-Calculus
-	Pi-Calculi
-	Pi Calculus
-	Pi Calculi
-	Picalculus
-	Picalculi
-	Transitions
-	Reductions
-	WS-BPEL
-	UDDI
-	SOAP
-	ACM
-	SAC
-	Conference
-	Distributed Systems
-	Computer Science
-	Formal Models
-	Formal Methods
-	Informatics" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <head>
+    <meta name="keywords"
+	  content="Fabrizio Montesi
+		   Ivan Lanese
+		   Manuel Mazzara
+		   Claudio Guidi
+		   Hugo Torres Vieira
+		   Maurice ter Beek
+		   Service-Oriented Computing
+		   Service-Oriented Computing
+		   Service-Oriented Architectures
+		   Service-Oriented Architectures
+		   Communication-Centred Programming
+		   Process Calculi
+		   Process Calculus
+		   Process-Calculi
+		   Process-Calculus
+		   Pi-Calculus
+		   Pi-Calculi
+		   Pi Calculus
+		   Pi Calculi
+		   Picalculus
+		   Picalculi
+		   Transitions
+		   Reductions
+		   WS-BPEL
+		   UDDI
+		   SOAP
+		   ACM
+		   SAC
+		   Conference
+		   Distributed Systems
+		   Computer Science
+		   Formal Models
+		   Formal Methods
+		   Informatics" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<link rel="stylesheet" href="css/960_24_col.css" />
-<link rel="stylesheet" href="css/reset.css" />
-<link rel="stylesheet" href="css/text.css" />
-<link rel="stylesheet" href="css/soap_style.css" />
-<script type="text/javascript" src="lib/jquery/jquery-1.11.1.min.js"></script>
-<script language="javascript">
-	var name = "#menu";
-	var menuYloc = 0;
-	$(document).ready(function() {
-		$(window).scroll(function () { 
-			offset = menuYloc + $(document).scrollTop() + "px";
- 			$(name).animate({top:offset},{duration:500,queue:false});
-		});
-	});
-</script>
-
-<title>ACM SAC 2018 - SOAP track</title> 
-
-<!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
-</head>
-<body>
-<div class="container_24">
-<div class="grid_24" id="header">
-<div class="grid_10">
-	<img src="images/acm.gif"/>
-	<img src="images/soap_logo.png"/>
-</div>
-<div class="grid_12">
-	<div class="grid_12" style="font-weight:bold; font-size:14pt">
-	Service-Oriented Architectures and Programming
+    <link rel="stylesheet" href="css/960_24_col.css" />
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" href="css/text.css" />
+    <link rel="stylesheet" href="css/soap_style.css" />
+    <script type="text/javascript" src="lib/jquery/jquery-1.11.1.min.js"></script>
+    <script language="javascript">
+      var name = "#menu";
+      var menuYloc = 0;
+      $(document).ready(function() {
+      $(window).scroll(function () { 
+      offset = menuYloc + $(document).scrollTop() + "px";
+      $(name).animate({top:offset},{duration:500,queue:false});
+      });
+      });
+    </script>
+    
+    <title>ACM SAC 2018 - SOAP track</title> 
+    
+    <!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+  </head>
+  <body>
+    <div class="container_24">
+      <div class="grid_24" id="header">
+	<div class="grid_10">
+	  <img src="images/acm.gif"/>
+	  <img src="images/soap_logo.png"/>
 	</div>
-	<div class="grid_12" style="font-weight:bold; border-top: 1px solid black; border-bottom: 1px solid black;">
-	33rd Annual ACM/SIGAPP Symposium On Applied Computing (SAC)<br/>
-	Track on Service-Oriented Architectures and Programming<br/>
-	Pau, France<br/>
-	April 9-13, 2018
+	<div class="grid_12">
+	  <div class="grid_12" style="font-weight:bold; font-size:14pt">
+	    Service-Oriented Architectures and Programming
+	  </div>
+	  <div class="grid_12" style="font-weight:bold; border-top: 1px solid black; border-bottom: 1px solid black;">
+	    33rd Annual ACM/SIGAPP Symposium On Applied Computing (SAC)<br/>
+	    Track on Service-Oriented Architectures and Programming<br/>
+	    Pau, France<br/>
+	    April 9-13, 2018
+	  </div>
 	</div>
-</div>
-	
-</div>
+      </div>
 
-<div class="grid_6" id="menu" style="position:relative">
+      <div class="grid_6" id="menu" style="position:relative">
 	<ul id="nav">
-	<!-- <li><a href="#news">News</a></li> -->
-	<li><a href="#sac">ACM SAC 2018</a></li>
-	<!-- <li><a href="#acc">Accepted Papers</a></li> -->
-	<li><a href="#cfp">Call For Papers</a></li>
-	<li><a href="#dates">Important Dates</a></li>
-	<li><a href="#submissions">Submissions</a></li>
-	<li><a href="#specialissue">Special Issue</a></li>
-	<li><a href="#studcompetition">Student Competition</a></li>
-	<li><a href="#pc">PC Members</a></li>
-	<li><a href="#tchairs">Track Chairs</a></li>
-	<li><a href="#pchair">Publicity Chairs</a></li>
-	<li><a href="#steeringCommittee">Steering Committee</a></li>  	
+	  <!-- <li><a href="#news">News</a></li> -->
+	  <li><a href="#sac">ACM SAC 2018</a></li>
+	  <!-- <li><a href="#acc">Accepted Papers</a></li> -->
+	  <li><a href="#cfp">Call For Papers</a></li>
+	  <li><a href="#dates">Important Dates</a></li>
+	  <li><a href="#submissions">Submissions</a></li>
+	  <li><a href="#specialissue">Special Issue</a></li>
+	  <li><a href="#studcompetition">Student Competition</a></li>
+	  <li><a href="#pc">PC Members</a></li>
+	  <li><a href="#tchairs">Track Chairs</a></li>
+	  <li><a href="#pchair">Publicity Chairs</a></li>
+	  <li><a href="#steeringCommittee">Steering Committee</a></li>  	
 	</ul>
-</div>
-
-<div class="grid_18" style="text-align:right">
+      </div>
+      
+      <div class="grid_18" style="text-align:right">
 	<strong>Follow us and get updates:</strong>
 	<a href="https://twitter.com/soap2018" class="twitter-follow-button" data-show-count="false">Follow @soap2018</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 	<a href="http://www.linkedin.com/groups?gid=4450094" target="_new">
 	  <img src="images/join_linkedin.png" border="0" alt="SOAP group on LinkedIn" />
 	</a>
-</div>
-
-<div class="grid_18" id="body">
-
-<!-- <div id="news">
-<h2 class="SectionTitle">News: extended deadline!</h2>
-<div class="SectionContent">
-The deadline for paper submissions has been extended to
-<center><strong>September 28, 2012</strong></center>
-</div>
-</div> -->
-
-<div id="sac">
-<h2 class="SectionTitle">SAC 2018</h2>
-<div class="SectionContent">
-For the past thirty years, the ACM
-Symposium on Applied Computing has been a
-primary gathering forum for applied computer
-scientists, computer engineers, software engineers,
-and application developers from around the world.
-<a href="http://www.sigapp.org/conferences/sac/sac2018/" target="_new">SAC 2018</a> is sponsored by the ACM Special
-Interest Group on Applied Computing (SIGAPP),
-and will be held in Pau, France.
-</div>
-</div>
-
-<!--
-<div id="acc">
-<h2 class="SectionTitle">Accepted Papers</h2>
-<div class="SectionContent">
-The overall acceptance rate of SAC 2018 was xx%. 
-The following papers have been accepted for the SOAP track:
-<ul>
-	<li> <bf> ... </bf> by ... </li>
-</ul>
-</div>
-</div>
--->
-
-<div id="cfp">
-<h2 class="SectionTitle">Call for papers <a href="acmsac2018-soap-cfp.txt">(download)</a></h2>
-<div class="SectionContent">
-
-Service-Oriented Programming (SOP) is quickly changing our vision of 
-software development, bringing a paradigmatic shift in the methodologies followed 
-by programmers when designing and implementing distributed systems.
-SOP originally triggered a radical transformation of the Web, from being a means of presenting information to a wide spectrum of people to becoming a computational fabric. In such fabric, loosely-coupled services publish their interfaces and, through them, discover and interact with each other abstracting from their internal implementations.
-While this transformation still continues today, it has also already generated other shifts in how programmers deal with resource handling (Cloud Computing) and the scalability of software architectures from the very small to the very large (Microservices).
-Research on SOP is giving strong impetus to the 
-development of new technologies and tools for creating and deploying 
-distributed software. In the context of this modern paradigm we have 
-to cope with an old challenge, like in the early days of 
-Object-Oriented Programming (OOP) when consistency in the programming model 
-definition was not achieved until the definition of key features like 
-encapsulation, inheritance, and polymorphism, together with proper design 
-methodologies. The complex scenario of SOP needs to be 
-clarified on many aspects, both from the engineering and from the 
-foundational points of view.<br/><br/>
-
-From the engineering point of view, there are open issues at many 
-levels. Among others, at the system design level, both traditional 
-approaches based on UML and approaches taking inspiration from 
-business process modelling, e.g. BPMN, are used. At the composition 
-level, orchestration and choreography are continuouslsy improved both formally and practically, with an evident need for their integration in the development process. At the description and discovery level there are two separate communities pushing respectively the semantic approach (ontologies, OWL, ...) and the syntactic one like WSDL. In 
-particular, the role of discovery engines and protocols is not clear. 
-In this respect we still lack adopted standards: UDDI looked to be a 
-good candidate, but it is no longer pushed by the main corporations, 
-and its wide adoption seems difficult. Furthermore, a recent 
-implementation platform, the so-called REST services, is emerging and 
-competing with classic Web Services. Finally, features like Quality 
-of Service, security and dependability need to be taken seriously 
-into account, and this investigation should lead to standard 
-proposals.<br/><br/>
-
-From the foundational point of view, researchers have discussed widely
-in the last years, and many attempts to use formal methods for 
-specification and verification in this setting have been made. 
-Session correlation, service types, contract theories and 
-communication patterns are only a few examples of the aspects that 
-have been investigated. Moreover, several formal models based upon 
-automata, Petri nets and algebraic approaches have been developed. 
-However, most of these approaches concentrate only on a few features 
-of Service-Oriented Systems in isolation, and a comprehensive approach 
-is still far from being achieved.
-
-Our track aims at bringing together researchers and practitioners 
-having the common objective of transforming SOP into a mature 
-discipline with both solid scientific foundations and mature 
-software engineering development methodologies supported by dedicated
-tools. In particular, we will encourage works and discussions about 
-what SOP still needs in order to achieve its original goal.<br/><br/>
-
-
-Major topics of interest will include:
-<ul>
-<li>Formal methods for Service-Oriented Computing</li>
-<li>Notations, models, and standards for Service-Oriented Computing</li>
-<li>Tools and Middlewares for Service-Oriented Development</li>
-<li>Service-Oriented Programming Languages</li>
-<li>Service-Oriented Programming in dynamic Open Service Ecosystems</li>
-<li>Service Choreographies and Protocol-Driven Service Development</li>
-<li>Service Interfaces and Communication Technologies (e.g., REST)</li>
-<li>Microservices and Scalable Service-Oriented Computing</li>
-<li>Engineering methodologies and Patterns for Service-Oriented Software</li>
-<li>Static Analysis and Testing of Service-Oriented applications</li>
-<li>Adaptability, Dependability, and Fault handling in Service Systems</li>
-<li>Security in Service-Oriented Architectures</li>
-<li>Quality of Service and Performance Analysis</li>
-<li>Industrial deployment of tools and methodologies, case studies</li>
-<li>Service application case studies</li>
-<li>Trust and Services</li>
-<li>Sustainability and Services, Green Computing</li>
-<li>Cloud Computing and Services</li>
-<li>Services and Big Data</li>
-<li>IoT and Cloud-based Services</li>
-</ul>
-
-	</div>
-
-	<div id="dates">
-<h2 class="SectionTitle">Important Dates </h2>
-<div class="SectionContent">
-<ul>
+      </div>
+      
+      <div class="grid_18" id="body">
 	
-	<li> September 15, 2017: Submission of regular papers and SRC research abstracts
-	</li><li> November 10, 2017: Notification of paper and SRC abstracts acceptance/rejection
-	</li><li> November 25, 2017: Camera-ready copies of accepted papers/SRC abstracts
-	</li><li> December 10, 2017: Author registration due date
-
-</li>
-</div>
-</div>
-
-<div id="submissions">
-<h2 class="SectionTitle">Submissions</h2>
-<div class="SectionContent">
-<p>
-Authors are invited to submit original unpublished papers. Submission
-of the same paper to multiple tracks is not allowed. Peer groups with
-expertise in the track focus area will double-blindly review
-submissions. Accepted papers will be published in the annual
-conference proceedings. SOAP track chairs will not submit to the
-track. Submissions from SOAP PC members and from PC members and track
-chairs of other SAC tracks are welcome. Submission guidelines
-can be found on the
-<a href="https://www.sigapp.org/sac/sac2018/downloads.html" target="_new">SAC 2018 website</a>.
-Prospective papers should be submitted to the track using the provided
-automated submission system. Please pay attention to ensure anonimity
-of your submitted manuscript as detailed in the submission page so to
-allow for double-blind review. Papers not satisfying this constraint
-will be automatically rejected. See the SAC site for the page constraints.
-For each accepted paper, an author
-or a proxy attending SAC MUST present the paper. This is a requirement
-for the paper to be included in the ACM/IEEE digital library.
-</p>
-<p>
-Paper registration is required, allowing the inclusion of the papers, posters, or SRC abstracts in the conference proceedings.
-An author or a proxy attending SAC MUST present the paper. This is a requirement for the presented work to be included in the ACM/IEEE digital library.
-No-show of registered papers, posters, and SRC abstracts will result in excluding them from the ACM/IEEE digital library.</p>
-
-Please submit your contribution via <a href="https://www.sigapp.org/sac/sac2018/submission.html">SAC 2018 submission site</a>.
-</div>
-</div>
-
-<div id="specialissue">
-<h2 class="SectionTitle">Special Issue</h2>
-<div class="SectionContent">
-
-We plan a special issue of a top-level journal for which we will invite 
-the best papers. 
-</div>
-</div> 
-
-<div id="studcompetition">
-<h2 class="SectionTitle">Student Research Competition Program</h2>
-<div class="SectionContent">
-<p>
-As before, SAC 2018 organizes a Student Research Competition (SRC)
-Program to provide graduate students the opportunity to meet and
-exchange ideas with researchers and practitioners in their areas of
-interest. For guidelines and information about the SRC program: 
-<a href="https://www.sigapp.org/sac/sac2018/src_program.html">www.sigapp.org/sac/sac2018/src_program.html</a>.<br/>
-</p>
-<p>
-Submission of research abstracts to the SRC 
-program should be in electronic form 
-via <a href="https://www.sigapp.org/sac/sac2018/submission_src.html">SAC 2018 SRC papers submission site</a>.
-<br/>
-Submission of the same abstract to multiple tracks is not allowed. 
-All research abstract submissions will be reviewed by researchers 
-and practitioners with expertise in the track focus area to which 
-they are submitted. Authors of selected abstracts will have the 
-opportunity to give poster presentations of their work and compete
-for three top-winning places. The Student Research Competition
-committee will evaluate and select First-, Second-, and Third- place
-winners. The winners will receive cash awards and SIGAPP recognition
-certificates during the conference banquet. Authors of selected
-abstracts are eligible to apply to the SIGAPP Student Travel Award
-program for support.
-</p>
-</div>
-</div>
-
-<div id="pc">
-<h2 class="SectionTitle">Program Committee</h2>
-
-<div class="SectionContent">
-<ul>
-  <li>Nazareno Aguirre (Universidad de R&iacute;o Cuarto, AR)</li>
-  <li>Farhad Arbab (Leiden University and CWI, Amsterdam, NL)</li>
-  <li>Lu&iacute;s Barbosa (University of Minho, Braga, PT)</li> 
-  <li>Maurice ter Beek (ISTI-CNR, IT)<br />
-  <li>Antonio Bucchiarone (FBK, Trento, IT)</li>
-  <li>Romain Demangeon (Universit&eacute; Pierre et Marie Curie, FR)</li>
-  <li>Shuiguang Deng (Zhejiang University, PRC)<br />
-  <li>Schahram Dustdar (Vienna University of Technology, AT)</li>
-  <li>Gian Luigi Ferrari (Universit&agrave; di Pisa, IT)</li>
-  <li>Jos&eacute; Fiadeiro (Royal Holloway University of London, UK)</li>
-  <li>Saverio Giallorenzo (University of Bologna, IT)</li>
-  <li>Ross Horne (Nanyang Technological University, SG)</li>
-  <li>Vasileios Koutavas (Trinity College Dublin, IR)</li> 
-  <li>Alberto Lluch Lafuente (Technical University of Denmark, DK)</li>
-  <li>Hern&aacute;n Melgratti (University of Buenos Aires, AR)</li>
-  <li>Alberto Núñez (Universidad Complutense de Madrid, SP)</li>
-  <li>Jorge A. Perez (University of Groningen, NL)</li> 
-  <li>Gustavo Petri (Purdue University, USA)</li>
-  <li>António Ravara (Universidade Nova de Lisboa, PT)</li>
-  <li>Victor Rivera (Innopolis University, RU)</li>
-  <li>Alceste Scalas (Imperial College London, UK)</li>
-  <li>Nikolay Shilov (Russian Academy of Sciences, Novosibirsk, RU)</li>
-  <li>Hugo Torres Vieira (IMT Lucca, IT)</li>
-  <li>Farouk Toumani (Universit&eacute; Blaise Pascal, FR)</li>
-  <li>Emilio Tuosto (University of Leicester, UK)</li>
-  <li>Yuhong Yan (Concordia University, CA)</li>
-  <li>Gianluigi Zavattaro (University of Bologna, IT)</li>
-  <li>Roberto Zunino (University of Trento, IT)</li>
-  </ul>
-</div>
-</div>
-
-<div id="tchairs">
-<h2 class="SectionTitle">Track Chairs</h2>
-<div class="SectionContent">
-<ul>
-
-	<li><a href="http://people.unica.it/bart/">Massimo Bartoletti</a><br/>bart @ unica.it <br/> Universit&agrave; di Cagliari, Italy </li>
-	<li><a href="http://tinyurl.com/lcfilipe/">Lu&iacute;s Cruz-Filipe</a><br/>lcf @ imada.sdu.dk <br/> University of Southern Denmark, Denmark </li>
-	<li><a href="">Gwen Salaün</a><br/>gwen.salaun  @  inria.fr<br/> Universit&eacute; Grenoble Alpes, France</li>
-	</ul>
-</div>
-</div>
-
-<div id="pchair">
-<h2 class="SectionTitle">Publicity Chair</h2>
-<div class="SectionContent">
-<ul>
-
-	<li>Stefano Lande<br/>lande @ unica.it <br/> Universit&agrave; di Cagliari, Italy </li>
-	</ul>
-</div>
-</div>
-
-<div id="steeringCommittee">
-<h2 class="SectionTitle">Steering Committee</h2>
-<div class="SectionContent">
-<ul>
-
-	<li>Claudio Guidi, italianaSoftware, Italy</li>
-	<li>Ivan Lanese, University of Bologna, Italy and INRIA, France</li>
-	<li>Manuel Mazzara, Innopolis University, Russia </li>
-	<li>Fabrizio Montesi, University of Southern Denmark, Denmark</li>
-</ul>
-</div>
+	<!-- <div id="news">
+	     <h2 class="SectionTitle">News: extended deadline!</h2>
+	     <div class="SectionContent">
+	       The deadline for paper submissions has been extended to
+	       <center><strong>September 28, 2012</strong></center>
+	     </div>
+	</div> -->
+	
+	<div id="sac">
+	  <h2 class="SectionTitle">SAC 2018</h2>
+	  <div class="SectionContent">
+	    For the past thirty years, the ACM
+	    Symposium on Applied Computing has been a
+	    primary gathering forum for applied computer
+	    scientists, computer engineers, software engineers,
+	    and application developers from around the world.
+	    <a href="http://www.sigapp.org/conferences/sac/sac2018/" target="_new">SAC 2018</a> is sponsored by the ACM Special
+	    Interest Group on Applied Computing (SIGAPP),
+	    and will be held in Pau, France.
+	  </div>
 	</div>
-</div>
-</body>
-</html>
+	
+	<!--
+	    <div id="acc">
+	      <h2 class="SectionTitle">Accepted Papers</h2>
+	      <div class="SectionContent">
+		The overall acceptance rate of SAC 2018 was xx%. 
+		The following papers have been accepted for the SOAP track:
+		<ul>
+		  <li> <bf> ... </bf> by ... </li>
+		</ul>
+	      </div>
+	    </div>
+	    -->
+
+	<div id="cfp">
+	  <h2 class="SectionTitle">Call for papers <a href="acmsac2018-soap-cfp.txt">(download)</a></h2>
+	  <div class="SectionContent">
+	    Service-Oriented Programming (SOP) is quickly changing our vision of 
+	    software development, bringing a paradigmatic shift in the methodologies followed 
+	    by programmers when designing and implementing distributed systems.
+	    SOP originally triggered a radical transformation of the Web, from being a means of
+	    presenting information to a wide spectrum of people to becoming a computational fabric.
+	    In such fabric, loosely-coupled services publish their interfaces and, through them,
+	    discover and interact with each other abstracting from their internal implementations.
+	    While this transformation still continues today, it has also already generated other shifts
+	    in how programmers deal with resource handling (Cloud Computing) and the scalability of
+	    software architectures from the very small to the very large (Microservices).
+	    Research on SOP is giving strong impetus to the 
+	    development of new technologies and tools for creating and deploying 
+	    distributed software. In the context of this modern paradigm we have 
+	    to cope with an old challenge, like in the early days of 
+	    Object-Oriented Programming (OOP) when consistency in the programming model 
+	    definition was not achieved until the definition of key features like 
+	    encapsulation, inheritance, and polymorphism, together with proper design 
+	    methodologies. The complex scenario of SOP needs to be 
+	    clarified on many aspects, both from the engineering and from the 
+	    foundational points of view.<br/><br/>
+
+	    From the engineering point of view, there are open issues at many levels.
+	    Among others, at the system design level, both traditional 
+	    approaches based on UML and approaches taking inspiration from 
+	    business process modelling, e.g. BPMN, are used. At the composition 
+	    level, orchestration and choreography are continuouslsy improved both formally and practically,
+	    with an evident need for their integration in the development process.
+	    At the description and discovery level there are two separate communities pushing respectively
+	    the semantic approach (ontologies, OWL, ...) and the syntactic one like WSDL.
+	    In particular, the role of discovery engines and protocols is not clear. 
+	    In this respect we still lack adopted standards: UDDI looked to be a 
+	    good candidate, but it is no longer pushed by the main corporations, 
+	    and its wide adoption seems difficult. Furthermore, a recent 
+	    implementation platform, the so-called REST services, is emerging and 
+	    competing with classic Web Services. Finally, features like Quality 
+	    of Service, security and dependability need to be taken seriously 
+	    into account, and this investigation should lead to standard 
+	    proposals.<br/><br/>
+
+	    From the foundational point of view, researchers have discussed widely
+	    in the last years, and many attempts to use formal methods for 
+	    specification and verification in this setting have been made. 
+	    Session correlation, service types, contract theories and 
+	    communication patterns are only a few examples of the aspects that 
+	    have been investigated. Moreover, several formal models based upon 
+	    automata, Petri nets and algebraic approaches have been developed. 
+	    However, most of these approaches concentrate only on a few features 
+	    of Service-Oriented Systems in isolation, and a comprehensive approach 
+	    is still far from being achieved.
+	    
+	    Our track aims at bringing together researchers and practitioners 
+	    having the common objective of transforming SOP into a mature 
+	    discipline with both solid scientific foundations and mature 
+	    software engineering development methodologies supported by dedicated
+	    tools. In particular, we will encourage works and discussions about 
+	    what SOP still needs in order to achieve its original goal.<br/><br/>
+	    
+	    
+	    Major topics of interest will include:
+	    <ul>
+	      <li>Formal methods for Service-Oriented Computing</li>
+	      <li>Notations, models, and standards for Service-Oriented Computing</li>
+	      <li>Tools and Middlewares for Service-Oriented Development</li>
+	      <li>Service-Oriented Programming Languages</li>
+	      <li>Service-Oriented Programming in dynamic Open Service Ecosystems</li>
+	      <li>Service Choreographies and Protocol-Driven Service Development</li>
+	      <li>Service Interfaces and Communication Technologies (e.g., REST)</li>
+	      <li>Microservices and Scalable Service-Oriented Computing</li>
+	      <li>Engineering methodologies and Patterns for Service-Oriented Software</li>
+	      <li>Static Analysis and Testing of Service-Oriented applications</li>
+	      <li>Adaptability, Dependability, and Fault handling in Service Systems</li>
+	      <li>Security in Service-Oriented Architectures</li>
+	      <li>Quality of Service and Performance Analysis</li>
+	      <li>Industrial deployment of tools and methodologies, case studies</li>
+	      <li>Service application case studies</li>
+	      <li>Trust and Services</li>
+	      <li>Sustainability and Services, Green Computing</li>
+	      <li>Cloud Computing and Services</li>
+	      <li>Services and Big Data</li>
+	      <li>IoT and Cloud-based Services</li>
+	    </ul>
+	    
+	  </div>
+	  
+	  <div id="dates">
+	    <h2 class="SectionTitle">Important Dates </h2>
+	    <div class="SectionContent">
+	      <ul>
+		<li> September 15, 2017: Submission of regular papers and SRC research abstracts</li>
+		<li> November 10, 2017: Notification of paper and SRC abstracts acceptance/rejection</li>
+		<li> November 25, 2017: Camera-ready copies of accepted papers/SRC abstracts</li>
+		<li> December 10, 2017: Author registration due date</li>
+	      </ul>
+	    </div>
+	  </div>
+	  
+	  <div id="submissions">
+	    <h2 class="SectionTitle">Submissions</h2>
+	    <div class="SectionContent">
+	      <p>
+		Authors are invited to submit original unpublished papers. Submission
+		of the same paper to multiple tracks is not allowed. Peer groups with
+		expertise in the track focus area will <b>double-blindly</b> review submissions.
+		This means that authors must omit their names and institutions from the title page,
+		they should refer to their other work in the third person and omit acknowledgements that could reveal their identity or affiliation.
+		The purpose is to avoid any bias based on authors' identity characteristics, such as gender, seniority, or nationality,
+		in the review process.
+		Our goal is to facilitate an unbiased approach to reviewing by supporting reviewers' access
+		to works that do not carry obvious references to the authors' identities.
+		Anonymization should not be a heavy burden for authors, and should not make papers weaker or more difficult to review.
+		Advertising the paper on alternate forums
+		(e.g., on a personal web-page, pre-print archive, email, talks, discussions with colleagues)
+		is permitted, and authors will not be penalized by for such advertisement.
+		Papers not satisfying this constraint will be automatically rejected.
+	      </p>
+	      <p>
+		Accepted papers will be published in the annual
+		conference proceedings. SOAP track chairs will not submit to the
+		track. Submissions from SOAP PC members and from PC members and track
+		chairs of other SAC tracks are welcome. Submission guidelines
+		can be found on the
+		<a href="https://www.sigapp.org/sac/sac2018/downloads.html" target="_new">SAC 2018 website</a>.
+		Prospective papers should be submitted to the track using the provided
+		automated submission system.
+		See the SAC site for the page constraints.
+		For each accepted paper, an author
+		or a proxy attending SAC MUST present the paper. This is a requirement
+		for the paper to be included in the ACM/IEEE digital library.
+	      </p>
+	      <p>
+		Paper registration is required, allowing the inclusion of the papers, posters, or SRC abstracts in the conference proceedings.
+		An author or a proxy attending SAC MUST present the paper. This is a requirement for the presented work to be included in the ACM/IEEE digital library.
+		No-show of registered papers, posters, and SRC abstracts will result in excluding them from the ACM/IEEE digital library.
+	      </p>
+	      
+	      Please submit your contribution via <a href="https://www.sigapp.org/sac/sac2018/submission.html">SAC 2018 submission site</a>.
+	    </div>
+	  </div>
+	  
+	  <div id="specialissue">
+	    <h2 class="SectionTitle">Special Issue</h2>
+	    <div class="SectionContent">
+	      
+	      We plan a special issue of a top-level journal for which we will invite 
+	      the best papers. 
+	    </div>
+	  </div> 
+	  
+	  <div id="studcompetition">
+	    <h2 class="SectionTitle">Student Research Competition Program</h2>
+	    <div class="SectionContent">
+	      <p>
+		As before, SAC 2018 organizes a Student Research Competition (SRC)
+		Program to provide graduate students the opportunity to meet and
+		exchange ideas with researchers and practitioners in their areas of
+		interest. For guidelines and information about the SRC program: 
+		<a href="https://www.sigapp.org/sac/sac2018/src_program.html">www.sigapp.org/sac/sac2018/src_program.html</a>.<br/>
+	      </p>
+	      <p>
+		Submission of research abstracts to the SRC 
+		program should be in electronic form 
+		via <a href="https://www.sigapp.org/sac/sac2018/submission_src.html">SAC 2018 SRC papers submission site</a>.
+		<br/>
+		Submission of the same abstract to multiple tracks is not allowed. 
+		All research abstract submissions will be reviewed by researchers 
+		and practitioners with expertise in the track focus area to which 
+		they are submitted. Authors of selected abstracts will have the 
+		opportunity to give poster presentations of their work and compete
+		for three top-winning places. The Student Research Competition
+		committee will evaluate and select First-, Second-, and Third- place
+		winners. The winners will receive cash awards and SIGAPP recognition
+		certificates during the conference banquet. Authors of selected
+		abstracts are eligible to apply to the SIGAPP Student Travel Award
+		program for support.
+	      </p>
+	    </div>
+	  </div>
+
+	  <div id="pc">
+	    <h2 class="SectionTitle">Program Committee</h2>
+
+	    <div class="SectionContent">
+	      <ul>
+		<li>Nazareno Aguirre (Universidad de R&iacute;o Cuarto, AR)</li>
+		<li>Farhad Arbab (Leiden University and CWI, Amsterdam, NL)</li>
+		<li>Lu&iacute;s Barbosa (University of Minho, Braga, PT)</li> 
+		<li>Maurice ter Beek (ISTI-CNR, IT)</li>
+		<li>Antonio Bucchiarone (FBK, Trento, IT)</li>
+		<li>Romain Demangeon (Universit&eacute; Pierre et Marie Curie, FR)</li>
+		<li>Shuiguang Deng (Zhejiang University, PRC)</li>
+		<li>Schahram Dustdar (Vienna University of Technology, AT)</li>
+		<li>Gian Luigi Ferrari (Universit&agrave; di Pisa, IT)</li>
+		<li>Jos&eacute; Fiadeiro (Royal Holloway University of London, UK)</li>
+		<li>Saverio Giallorenzo (University of Bologna, IT)</li>
+		<li>Ross Horne (Nanyang Technological University, SG)</li>
+		<li>Vasileios Koutavas (Trinity College Dublin, IR)</li> 
+		<li>Alberto Lluch Lafuente (Technical University of Denmark, DK)</li>
+		<li>Hern&aacute;n Melgratti (University of Buenos Aires, AR)</li>
+		<li>Alberto Núñez (Universidad Complutense de Madrid, SP)</li>
+		<li>Jorge A. Perez (University of Groningen, NL)</li> 
+		<li>Gustavo Petri (Purdue University, USA)</li>
+		<li>António Ravara (Universidade Nova de Lisboa, PT)</li>
+		<li>Victor Rivera (Innopolis University, RU)</li>
+		<li>Alceste Scalas (Imperial College London, UK)</li>
+		<li>Nikolay Shilov (Russian Academy of Sciences, Novosibirsk, RU)</li>
+		<li>Hugo Torres Vieira (IMT Lucca, IT)</li>
+		<li>Farouk Toumani (Universit&eacute; Blaise Pascal, FR)</li>
+		<li>Emilio Tuosto (University of Leicester, UK)</li>
+		<li>Yuhong Yan (Concordia University, CA)</li>
+		<li>Gianluigi Zavattaro (University of Bologna, IT)</li>
+		<li>Roberto Zunino (University of Trento, IT)</li>
+	      </ul>
+	    </div>
+	  </div>
+
+	  <div id="tchairs">
+	    <h2 class="SectionTitle">Track Chairs</h2>
+	    <div class="SectionContent">
+	      <ul>
+		<li><a href="http://people.unica.it/bart/">Massimo Bartoletti</a><br/>bart @ unica.it <br/> Universit&agrave; di Cagliari, Italy </li>
+		<li><a href="http://tinyurl.com/lcfilipe/">Lu&iacute;s Cruz-Filipe</a><br/>lcf @ imada.sdu.dk <br/> University of Southern Denmark, Denmark </li>
+		<li><a href="">Gwen Salaün</a><br/>gwen.salaun  @  inria.fr<br/> Universit&eacute; Grenoble Alpes, France</li>
+	      </ul>
+	    </div>
+	  </div>
+	  
+	  <div id="pchair">
+	    <h2 class="SectionTitle">Publicity Chair</h2>
+	    <div class="SectionContent">
+	      <ul>
+		<li>Stefano Lande<br/>lande @ unica.it <br/> Universit&agrave; di Cagliari, Italy </li>
+	      </ul>
+	    </div>
+	  </div>
+	  
+	  <div id="steeringCommittee">
+	    <h2 class="SectionTitle">Steering Committee</h2>
+	    <div class="SectionContent">
+	      <ul>
+		<li>Claudio Guidi, italianaSoftware, Italy</li>
+		<li>Ivan Lanese, University of Bologna, Italy and INRIA, France</li>
+		<li>Manuel Mazzara, Innopolis University, Russia </li>
+		<li>Fabrizio Montesi, University of Southern Denmark, Denmark</li>
+	      </ul>
+	    </div>
+	  </div>
+	</div>
+      </body>
+    </html>
