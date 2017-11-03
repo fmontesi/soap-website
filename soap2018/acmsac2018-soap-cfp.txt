@@ -12,10 +12,10 @@ of the 33rd ACM/SIGAPP Symposium On Applied Computing
 
         IMPORTANT DATES
 
-September 15, 2017: Submission of regular papers and SRC research abstracts
-November 10, 2017: Notification of paper and SRC acceptance/rejection
-November 25, 2017: Camera-ready copies of accepted papers/SRC
-December 10, 2017: Author registration due date
+September 25, 2017: Submission of regular papers and SRC research abstracts
+November 17, 2017: Notification of paper and SRC acceptance/rejection
+December 2, 2017: Camera-ready copies of accepted papers/SRC
+December 15, 2017: Author registration due date
 
 
         ACM SAC 2018
