@@ -30,83 +30,84 @@ Pau (France).
 
         SOAP TRACK: CALL FOR PAPERS
 
-Service-Oriented Programming (SOP) is quickly changing our vision 
-of software development, bringing a paradigmatic shift in the 
-methodologies followed by programmers when designing and implementing 
-distributed systems. SOP originally triggered a radical transformation 
-of the Web, from being a means of presenting information to a wide 
-spectrum of people to becoming a computational fabric. In such fabric, 
-loosely-coupled services publish their interfaces and, through them, 
-discover and interact with each other abstracting from their internal 
-implementations. While this transformation still continues today, it 
-has also already generated other shifts in how programmers deal with 
-resource handling (Cloud Computing) and the scalability of software 
-architectures from the very small to the very large (Microservices). 
-Research on SOP is giving strong impetus to the development of new 
-technologies and tools for creating and deploying distributed software. 
-In the context of this modern paradigm we have to cope with an old 
-challenge, like in the early days of Object-Oriented Programming (OOP) 
-when consistency in the programming model definition was not achieved 
-until the introduction of key features like encapsulation, inheritance, 
-and polymorphism, together with proper design methodologies. The complex 
-scenario of SOP needs to be clarified on many aspects, both from the 
-engineering and from the foundational points of view.
+Service-oriented architectures have changed our vision of the Web, bringing a
+paradigmatic shift in the methodologies when designing and implementing
+distributed systems. Originally, the Web was mainly seen as a means of
+presenting information to a wide spectrum of people, but service-oriented
+programming triggered a radical transformation of the Web towards a
+computational fabric where loosely coupled services interact, can be discovered
+and then invoked. More recently, the microservices architectural style has been
+proposed, where applications are developed as a collection of fine-grained
+services running as independent processes. Distributed applications can then be
+constructed from independently deployable services taking advantage of the
+properties of the microservice architecture (e.g., flexibility, maintainability,
+reusability, compositionality, and scalability) as well as the elasticity of
+cloud infrastructure. From the practical point of view, the deployment and
+maintenance of (micro)services architectures is performed using DevOps, i.e.,  a
+collection of practices linking software development (Dev) with software
+operations (Ops). DevOps strongly advocates for automation and monitoring at all
+steps of software construction, from integration, testing, releasing to
+deployment and infrastructure management. By using the DevOps methodology, it is
+possible to reduce the time between committing a change to a system and the
+change being placed into normal production, while ensuring high quality.
 
-From the engineering point of view, there are open issues at many levels. 
-Among others, at the system design level, both traditional approaches 
-based on UML and approaches taking inspiration from business process 
-modelling, e.g. BPMN, are used. At the composition level, orchestration 
-and choreography are continuously improved both formally and practically, 
-with an evident need for their integration in the development process. 
-At the description and discovery level there are two separate communities 
-pushing respectively the semantic approach (ontologies, OWL, ...) and the 
-syntactic one like WSDL. In particular, the role of discovery engines and 
-protocols is not clear. In this respect we still lack adopted standards: 
-UDDI looked to be a good candidate, but it is no longer pushed by the main 
-corporations, and its wide adoption seems difficult. Furthermore, a recent
-implementation platform, the so-called REST services, is emerging and 
-competing with classic Web Services. Finally, features like Quality of 
-Service, security and dependability need to be taken seriously into account, 
-and this investigation should lead to standard proposals.
+The complex scenario of (Micro)Services and DevOps needs to be clarified on many
+aspects, both from the engineering and from the foundational points of
+view. From the engineering point of view, there are open issues at many
+levels. Among others, at the system design level, both traditional approaches
+based on UML and approaches inspired from business process modelling are
+used. At the composition level, both the orchestration and choreography views
+have their supporters. At the description and discovery level, there are two
+separate communities pushing respectively the semantic approach (e.g.,
+ontologies, OWL) and the syntactic one (e.g., WSDL). At the deployment level,
+different tools and methodologies are being developed to test, monitor,
+configure, and strive for always more automatization of the continuous
+integration and deployment workflows. Finally, features like Quality of Service,
+security and dependability must be taken seriously into account, and this
+investigation should lead to standard proposals.
 
-From the foundational point of view, researchers have discussed widely in 
-the last years, and many attempts to use formal methods for specification 
-and verification in this setting have been made. Session correlation, service 
-types, contract theories and communication patterns are only a few examples 
-of the aspects that have been investigated. Moreover, several formal models 
-based upon automata, Petri nets and algebraic approaches have been developed. 
-However, most of these approaches concentrate only on a few features of 
-Service-Oriented Systems in isolation, and a comprehensive approach is still 
-far from being achieved.
+From the foundational point of view, researchers have discussed widely in the
+last years, and many attempts to use formal methods, declarative languages, and
+optimization tools for the specification, verification and deployment of complex
+distributed applications. Session correlation, service types, contract theories,
+communication patterns and configuration optimizers are only a few examples of
+the aspects that have been investigated. However, most of such approaches
+concentrate on a few features of Service-Oriented Systems in isolation, and a
+comprehensive approach is still far from being accomplished.
 
-Our track aims at bringing together researchers and practitioners having the 
-common objective of transforming SOP into a mature discipline with both solid 
-scientific foundations and mature software engineering development methodologies 
-supported by dedicated tools. In particular, we will encourage works and 
-discussions about what SOP still needs in order to achieve its original goal.
+Our track aims to bring together researchers and practitioners having the common
+objective of transforming Service-Oriented, DevOps, and Microservice practices
+into a mature discipline with both solid scientific foundations and mature
+software engineering development methodologies supported by dedicated tools. In
+particular, we will encourage works and discussions about what (Micro)Services
+and DevOps still need in order to achieve their goal.
+
 
         TOPICS OF INTEREST
 
-- Formal methods for Service-Oriented Computing
-- Notations, models, and standards for Service-Oriented Computing
-- Tools and Middlewares for Service-Oriented Development
-- Service-Oriented Programming Languages
-- Service-Oriented Programming in dynamic Open Service Ecosystems
-- Service Choreographies and Protocol-Driven Service Development
-- Service Interfaces and Communication Technologies (e.g., REST)
-- Microservices and Scalable Service-Oriented Computing
-- Engineering methodologies and Patterns for Service-Oriented Software
-- Static Analysis and Testing of Service-Oriented applications
-- Adaptability, Dependability, and Fault handling in Service Systems
-- Security in Service-Oriented Architectures
-- Quality of Service and Performance Analysis
-- Industrial deployment of tools and methodologies, case studies
-- Service application case studies
+- Formal methods for specification of (Micro)Services
+- Methodologies and tools for Service-Oriented application design
+- Methodologies and tools for DevOps
+- Service-Oriented Middlewares
+- Service-Oriented Programming languages
+- Test methodologies for Service-Oriented applications
+- Analysis techniques and tools
+- Service systems performance analysis
+- Industrial deployment of tools and methodologies
+- Standards for Service Oriented Programming
+- Continuous Integration and Deployment
+- (Micro)Service application case studies
+- Dependability and Services
+- Quality of Service
+- Cybersecurity and Services
+- Comparisons between different approaches to Services
+- Exception handling in composition languages
 - Trust and Services
 - Sustainability and Services, Green Computing
-- Cloud Computing and Services
-- Services and Big Data
-- IoT and Cloud-based Services
+- Adaptable Services
+- Empirical research or Experiences on (Micro)Services and DevOps
+- Failure cases
+
 
 
         SUBMISSIONS
