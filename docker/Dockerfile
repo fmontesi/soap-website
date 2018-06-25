@@ -9,7 +9,7 @@ RUN git clone https://github.com/fmontesi/soap-website.git /var/lib/leonardo/www
 FROM jolielang/jolie
 WORKDIR /
 RUN mkdir -p /var/lib/leonardo/www
-COPY --from=Build /var/lib/leonardo/www/* /var/lib/leonardo/www/
+COPY --from=Build /var/lib/leonardo/www/midos2019 /var/lib/leonardo/www
 COPY leonardo /
 
 WORKDIR /leonardo
