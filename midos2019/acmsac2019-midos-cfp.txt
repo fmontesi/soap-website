@@ -18,17 +18,17 @@ November 25, 2018: Camera-ready copies of accepted papers/SRC
 December 10, 2018: Author registration due date
 
 
-        ACM SAC 2019
+        ACM SAC & MIDOS TRACK 2019
+        
+For the past thirty years, the ACM Symposium on Applied Computing has been a
+primary gathering forum for applied computer scientists, computer engineers,
+software engineers, and application developers from around the world. The first
+edition of the MiDOS track in particular will gather scientist and practitioner
+interested in Microservices, DevOps, and Service-Oriented Architecture, as a
+natural continuation of the previous Service-Oriented Architecture and
+Programming (SOAP) track, now discontinued.
 
-For the past thirty years, the ACM Symposium on Applied Computing 
-has been a primary gathering forum for applied computer scientists, 
-computer engineers, software engineers, and application developers 
-from around the world. SAC 2018 is sponsored by the ACM Special 
-Interest Group on Applied Computing (SIGAPP), and will be held in 
-Pau (France).
-
-
-        SOAP TRACK: CALL FOR PAPERS
+        MiDOS TRACK: CALL FOR PAPERS
 
 Service-oriented architectures have changed our vision of the Web, bringing a
 paradigmatic shift in the methodologies when designing and implementing
@@ -116,9 +116,8 @@ Authors are invited to submit original unpublished papers. Submission
 of the same paper to multiple tracks is not allowed. Peer groups with
 expertise in the track focus area will double-blindly review submissions. 
 Accepted papers will be published in the annual conference proceedings. 
-MiDOS track chairs will not submit to the track. Submissions from MiDOS
-PC members and from PC members and track chairs of other SAC tracks are 
-welcome. Submission guidelines can be found on the SAC 2019 website:
+
+Submission guidelines can be found on the SAC 2019 website:
     
 	http://www.sigapp.org/sac/sac2019/
 
@@ -130,19 +129,26 @@ will be automatically rejected. The maximum length for papers is 10
 pages. Accepted papers whose camera-ready version will exceed 8 pages
 will have to pay an extra charge. 
 
-Paper registration is required, allowing the inclusion of the papers, 
-posters, or SRC abstracts in the conference proceedings. An author or 
+Paper registration is required, allowing the inclusion of the papers
+#, 
+#posters, or SRC abstracts 
+in the conference proceedings. An author or 
 a proxy attending SAC MUST present the paper. This is a requirement for 
-the presented work to be included in the ACM/IEEE digital library.
-No-show of registered papers, posters, and SRC abstracts will result 
-in excluding them from the ACM/IEEE digital library.
+the presented work to be included in the ACM digital library.
+No-show of registered papers will result 
+in excluding them from the ACM digital library.
 
 
-        SPECIAL ISSUE
+#        SPECIAL ISSUE
+#
+#We plan a special issue of a top-level journal for which we will invite 
+#the best papers. 
 
-We plan a special issue of a top-level journal for which we will invite 
-the best papers. 
-
+##########
+perhaps needed instead to mention the 
+ACM SIGAPP student travel award
+program https://www.sigapp.org/stawards.html
+# not need
 
         STUDENT RESEARCH COMPETITION PROGRAM 
 
