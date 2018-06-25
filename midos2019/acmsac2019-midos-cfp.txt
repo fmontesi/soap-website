@@ -5,16 +5,16 @@
 Microservices, DevOps, and Service-Oriented Architecture
 of the 34th ACM/SIGAPP Symposium On Applied Computing 
 
-        8-12 April 2019, Nicosia, Cyprus
+        8-12 April 2019, Limassol, Cyprus
 
              http://sac-midos.sdu.dk/
 
 
         IMPORTANT DATES
 
-September 10, 2018: Submission of regular papers and SRC research abstracts
-November 10, 2018: Notification of paper and SRC acceptance/rejection
-November 25, 2018: Camera-ready copies of accepted papers/SRC
+September 10, 2018: Submission of regular papers
+November 10, 2018: Notification of paper acceptance/rejection
+November 25, 2018: Camera-ready copies of accepted papers
 December 10, 2018: Author registration due date
 
 
@@ -22,11 +22,11 @@ December 10, 2018: Author registration due date
         
 For the past thirty years, the ACM Symposium on Applied Computing has been a
 primary gathering forum for applied computer scientists, computer engineers,
-software engineers, and application developers from around the world. The first
-edition of the MiDOS track in particular will gather scientist and practitioner
-interested in Microservices, DevOps, and Service-Oriented Architecture, as a
-natural continuation of the previous Service-Oriented Architecture and
-Programming (SOAP) track, now discontinued.
+software engineers, and application developers from around the world. MiDOS is
+the first edition focusing on Microservices, DevOps, and Service-Oriented
+Architecture and it is the natural continuation of the previous Service-Oriented
+Architecture and Programming (SOAP) track, now discontinued.
+
 
         MiDOS TRACK: CALL FOR PAPERS
 
@@ -53,27 +53,7 @@ change being placed into normal production, while ensuring high quality.
 
 The complex scenario of (Micro)Services and DevOps needs to be clarified on many
 aspects, both from the engineering and from the foundational points of
-view. From the engineering point of view, there are open issues at many
-levels. Among others, at the system design level, both traditional approaches
-based on UML and approaches inspired from business process modelling are
-used. At the composition level, both the orchestration and choreography views
-have their supporters. At the description and discovery level, there are two
-separate communities pushing respectively the semantic approach (e.g.,
-ontologies, OWL) and the syntactic one (e.g., WSDL). At the deployment level,
-different tools and methodologies are being developed to test, monitor,
-configure, and strive for always more automatization of the continuous
-integration and deployment workflows. Finally, features like Quality of Service,
-security and dependability must be taken seriously into account, and this
-investigation should lead to standard proposals.
-
-From the foundational point of view, researchers have discussed widely in the
-last years, and many attempts to use formal methods, declarative languages, and
-optimization tools for the specification, verification and deployment of complex
-distributed applications. Session correlation, service types, contract theories,
-communication patterns and configuration optimizers are only a few examples of
-the aspects that have been investigated. However, most of such approaches
-concentrate on a few features of Service-Oriented Systems in isolation, and a
-comprehensive approach is still far from being accomplished.
+view. 
 
 Our track aims to bring together researchers and practitioners having the common
 objective of transforming Service-Oriented, DevOps, and Microservice practices
@@ -109,7 +89,6 @@ and DevOps still need in order to achieve their goal.
 - Failure cases
 
 
-
         SUBMISSIONS
 
 Authors are invited to submit original unpublished papers. Submission
@@ -129,48 +108,24 @@ will be automatically rejected. The maximum length for papers is 10
 pages. Accepted papers whose camera-ready version will exceed 8 pages
 will have to pay an extra charge. 
 
-Paper registration is required, allowing the inclusion of the papers
-#, 
-#posters, or SRC abstracts 
-in the conference proceedings. An author or 
-a proxy attending SAC MUST present the paper. This is a requirement for 
-the presented work to be included in the ACM digital library.
-No-show of registered papers will result 
-in excluding them from the ACM digital library.
+For each accepted paper, a registration is required, allowing the inclusion of
+the paper/poster in the conference proceedings. An author or a proxy attending
+SAC MUST present the paper. This is a requirement for the paper/poster to be
+included in the ACM digital library. No-show of registered papers and posters
+will result in excluding them from the ACM digital library.
 
 
-#        SPECIAL ISSUE
-#
-#We plan a special issue of a top-level journal for which we will invite 
-#the best papers. 
+        STUDENT TRAVEL AWARD PROGRAM 
 
-##########
-perhaps needed instead to mention the 
-ACM SIGAPP student travel award
-program https://www.sigapp.org/stawards.html
-# not need
+SIGAPP student members can apply for financial support to present their accepted
+work at SAC via the SIGAPP Student Travel Award Program
+(https://www.sigapp.org/stawards.html). 
 
-        STUDENT RESEARCH COMPETITION PROGRAM 
 
-As before, SAC 2019 organizes a Student Research Competition (SRC)
-Program to provide graduate students the opportunity to meet and
-exchange ideas with researchers and practitioners in their areas of
-interest.  Submission of research abstracts (maximum of 4 pages) to
-the SRC program should be in electronic form via the SAC 2019 website:
+        SPECIAL ISSUE
 
-	http://www.sigapp.org/conferences/sac/sac2019/
-
-Submission of the same abstract to multiple tracks is not allowed. 
-All research abstract submissions will be reviewed by researchers 
-and practitioners with expertise in the track focus area to which 
-they are submitted. Authors of selected abstracts will have the 
-opportunity to give poster presentations of their work and compete
-for three top-winning places. The Student Research Competition
-committee will evaluate and select First-, Second-, and Third- place
-winners. The winners will receive cash awards and SIGAPP recognition
-certificates during the conference banquet. Authors of selected
-abstracts are eligible to apply to the SIGAPP Student Travel Award
-program for support.
+We plan a special issue of a top-level journal for which we will invite 
+the best papers. 
 
 
         PC MEMBERS
@@ -204,11 +159,18 @@ Yuhon Yan (Concordia University, CA)
 Gianluigi Zavattaro (University of Bologna, IT)
 Roberto Zunino (University of Trento, IT)
 
+
         TRACK CHAIRS
 
 - Luís Cruz-Filipe (University of Southern Denmark, DK)
 - Jacopo Mauro (University of Southern Denmark, DK)
 - Elisabetta Di Nitto (Politecnico di Milano, IT)
+
+
+        PUBLICITY CHAIR
+
+- Saverio Giallorenzo (University of Southern Denmark, DK)
+
 
         STEERING COMMITTEE
 
