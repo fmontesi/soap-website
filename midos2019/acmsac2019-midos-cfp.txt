@@ -130,34 +130,7 @@ the best papers.
 
         PC MEMBERS
 
-Nazareno Aguirre (Universidad de Río Cuarto, AR)
-Farhad Arbab (Leiden University and CWI, Amsterdam, NL)
-Luís Barbosa (University of Minho, Braga, PT)
-Maurice ter Beek (ISTI-CNR, IT)
-Antonio Bucchiarone (FBK, Trento, IT)
-Romain Demangeon (Université Pierre et Marie Curie, FR)
-Shuiguang Deng (Zhejiang University, PRC)
-Schahram Dustdar (Vienna University of Technology, AT)
-Gian Luigi Ferrari (Università di Pisa, IT)
-José Fiadeiro (Royal Holloway University of London, UK)
-Saverio Giallorenzo (University of Bologna, IT)
-Ross Horne (Nanyang Technological University, SG)
-Vasileios Koutavas (Trinity College Dublin, IR)
-Alberto Lluch Lafuente (Technical University of Denmark, DK)
-Hernán Melgratti (University of Buenos Aires, AR)
-Alberto Núñez (Universidad Complutense de Madrid, SP)
-Jorge A. Perez (University of Groningen, NL)
-Gustavo Petri (Université Paris Diderot - Paris 7, FR)
-António Ravara (Universidade Nova de Lisboa, PT)
-Victor Rivera (Innopolis University, RU)
-Alceste Scalas (Imperial College London, UK)
-Nikolay Shilov (Russian Academy of Sciences, Novosibirsk, RU)
-Hugo Torres Vieira (IMT Lucca, IT)
-Farouk Toumani (Université Blaise Pascal, FR)
-Emilio Tuosto (University of Leicester, UK)
-Yuhon Yan (Concordia University, CA)
-Gianluigi Zavattaro (University of Bologna, IT)
-Roberto Zunino (University of Trento, IT)
+To be announced
 
 
         TRACK CHAIRS
