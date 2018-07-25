@@ -124,7 +124,29 @@ papers.
 
                                   PC MEMBERS
 
-To be announced
+- Alberto Lluch Lafuente (Technical University of Denmark, DK)
+- Alberto Núñez (Universidad Complutense de Madrid, SP)
+- Alceste Scalas (Imperial College London, UK)
+- António Ravara (University Nova de Lisboa, PT)
+- Dimka Karastoyanova (University of Groningen, NL)
+- Emilio Tuosto (University of Leicester, UK)
+- Florian Rademacher (Dortmund University of Applied Sciences and Arts, DE)
+- Gianluigi Zavattaro (University of Bologna, IT)
+- Gustavo Petri (University Paris Diderot - Paris 7, FR)
+- Hernán Melgratti (University of Buenos Aires, AR)
+- Hugo Torres Vieira (IMT Lucca, IT)
+- Jacopo Soldani (University of Pisa, IT)
+- Luís Barbosa (University of Minho, Braga, PT)
+- Maryam Razavian (Technische Universiteit Eindhoven, NL)
+- Roberto Zunino (University of Trento, IT)
+- Romain Demangeon (University Pierre et Marie Curie, FR)
+- Ross Horne (Nanyang Technological University, SG)
+- Saverio Giallorenzo (University of Southern Denmark, DK)
+- Schahram Dustdar (Vienna University of Technology, AT)
+- Shuiguang Deng (Zhejiang University, PRC)
+- Silvia Lizeth Tapia Tarifa (University of Oslo, NO)
+- Víctor Rivera (Innopolis University, RU)
+- Violet Ka I Pun (University of Bergen, NO)
 
                                  TRACK CHAIRS
 
